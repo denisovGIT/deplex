@@ -29,7 +29,7 @@ add_executable(unit-tests
         test_plane_extractor.cpp
         test_config.cpp
         test_depth_image.cpp
-        )
+        segmentation_plane_image.cpp)
 
 target_include_directories(unit-tests SYSTEM PUBLIC ${CMAKE_CURRENT_BINARY_DIR})
 
