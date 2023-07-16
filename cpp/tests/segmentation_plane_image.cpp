@@ -2,13 +2,17 @@
 #include <filesystem>
 #include <gtest/gtest.h>
 
-
 #include <deplex/plane_extractor.h>
 #include <deplex/utils/depth_image.h>
 #include <deplex/utils/eigen_io.h>
 
+#include </usr/local/include/gperftools/profiler.h>
+
+
 TEST(ReadImage, count_image) {
-  const uint iterations = 500;
+  ProfilerStart("test_capture.prof");
+
+  const uint iterations = 10;
   const std::string IMAGE = "icl_nuim";
 
   std::__fs::filesystem::path data_dir = "/Users/denisovlev/Documents/CLionProjects/deplex/dataBenchmark";
@@ -29,4 +33,6 @@ TEST(ReadImage, count_image) {
 
     std::cout << image_path << ": " << labels.maxCoeff() << " planes found" << std::endl;
   }
+
+  ProfilerStop();
 }

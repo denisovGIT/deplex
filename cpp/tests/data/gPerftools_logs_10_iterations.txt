@@ -1,0 +1,1452 @@
+denisovlev@MacBook-Pro-Denisov tests % pprof --text ./unit-tests test_capture.prof
+Using local file ./unit-tests.
+Using local file test_capture.prof.
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/liboah.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/liboah.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/liboah.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/liboah.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/libobjc.A.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/libobjc.A.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/libobjc.A.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/libobjc.A.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/libobjc.A.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libxpc.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libxpc.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libxpc.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libxpc.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libxpc.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libunwind.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libunwind.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libunwind.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libunwind.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_trace.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_trace.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_trace.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_trace.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_trace.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_symptoms.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_symptoms.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_symptoms.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_symptoms.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_symptoms.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_secinit.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_secinit.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_secinit.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_secinit.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_sandbox.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_sandbox.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_sandbox.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_product_info_filter.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_product_info_filter.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_notify.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_notify.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_notify.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_notify.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_notify.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_networkextension.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_networkextension.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_networkextension.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_networkextension.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_networkextension.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_malloc.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_malloc.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_malloc.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_malloc.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_malloc.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_m.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_m.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_m.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_m.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_m.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_info.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_info.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_info.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_info.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_info.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_featureflags.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_featureflags.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_featureflags.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_featureflags.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_featureflags.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_dnssd.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_dnssd.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_dnssd.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_darwin.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_darwin.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_darwin.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_darwin.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_darwin.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_coreservices.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_coreservices.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_coreservices.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_containermanager.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_containermanager.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_containermanager.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_configuration.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_configuration.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_configuration.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_collections.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_collections.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_collections.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_c.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_c.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_c.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_c.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_c.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_blocks.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_blocks.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_blocks.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_blocks.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_blocks.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_asl.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_asl.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_asl.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_asl.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libsystem_asl.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libremovefile.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libremovefile.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libremovefile.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libquarantine.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libquarantine.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libquarantine.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libmacho.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libmacho.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libmacho.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libmacho.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libkeymgr.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libkeymgr.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libkeymgr.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libdyld.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libdyld.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libdyld.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libdyld.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libdyld.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libdispatch.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libdispatch.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libdispatch.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libdispatch.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libdispatch.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libcorecrypto.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libcorecrypto.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libcorecrypto.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libcorecrypto.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libcorecrypto.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libcopyfile.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libcopyfile.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libcopyfile.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libcopyfile.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libcompiler_rt.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libcompiler_rt.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libcompiler_rt.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libcompiler_rt.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libcommonCrypto.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libcommonCrypto.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libcommonCrypto.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libcache.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libcache.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/system/libcache.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/libc++abi.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/libc++abi.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/libc++abi.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/libc++abi.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/libc++abi.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/libSystem.B.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/libSystem.B.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/libSystem.B.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/libc++.1.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/libc++.1.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/libc++.1.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/libc++.1.dylib (No such file or directory)
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't open file: /usr/lib/libc++.1.dylib (No such file or directory)
+Total: 960 samples
+      29   3.0%   3.0%       29   3.0% __GLOBAL__sub_I_depth_image.cpp
+      27   2.8%   5.8%       27   2.8% Eigen::internal::assign_op::assignCoeff@100016c70
+      13   1.4%   7.2%       15   1.6% Eigen::DenseStorage::rows@100006aa0
+      12   1.2%   8.4%       19   2.0% Eigen::internal::unary_evaluator::coeff@547a0
+      12   1.2%   9.7%       12   1.2% Eigen::internal::variable_if_dynamic::value@100009490
+      12   1.2%  10.9%       13   1.4% Eigen::internal::variable_if_dynamic::variable_if_dynamic@95e0
+      11   1.1%  12.1%       42   4.4% Eigen::ArrayBase::ArrayBase
+      11   1.1%  13.2%       12   1.2% Eigen::internal::variable_if_dynamic::variable_if_dynamic
+      10   1.0%  14.3%       11   1.1% Eigen::internal::reshaped_evaluator::index_remap@43f90
+       9   0.9%  15.2%       11   1.1% Eigen::internal::evaluator::coeffRef@2e0e0
+       8   0.8%  16.0%       28   2.9% Eigen::EigenBase::rows@100009410
+       8   0.8%  16.9%       36   3.8% Eigen::internal::generic_dense_assignment_kernel::assignCoeffByOuterInner@30050
+       8   0.8%  17.7%       11   1.1% Eigen::internal::mapbase_evaluator::coeff@30220
+       8   0.8%  18.5%       14   1.5% Eigen::internal::reshaped_evaluator::index_remap@55450
+       8   0.8%  19.4%       22   2.3% deplex::CellSegmentStat::operator=
+       8   0.8%  20.2%      101  10.5% deplex::PlaneExtractor::Impl::createPlaneSegments
+       8   0.8%  21.0%      104  10.8% deplex::PlaneExtractor::Impl::toImageLabels
+       7   0.7%  21.8%        7   0.7% 0x00007ff81600c1bd
+       7   0.7%  22.5%       43   4.5% Eigen::DenseCoeffsBase::operator[]@35a00
+       7   0.7%  23.2%       42   4.4% Eigen::internal::evaluator::~evaluator
+       7   0.7%  24.0%       46   4.8% Eigen::internal::general_matrix_matrix_product::run
+       7   0.7%  24.7%        7   0.7% Eigen::internal::pmul
+       7   0.7%  25.4%       18   1.9% Eigen::internal::variable_if_dynamic::variable_if_dynamic@9580
+       6   0.6%  26.0%        6   0.6% Eigen::PlainObjectBase::operator=@242a0
+       5   0.5%  26.6%        6   0.6% Eigen::CwiseBinaryOp::rows@22070
+       5   0.5%  27.1%        5   0.5% Eigen::EigenBase::derived@1e140
+       5   0.5%  27.6%       15   1.6% Eigen::EigenBase::size@217e0
+       5   0.5%  28.1%       19   2.0% Eigen::Matrix::outerStride@100010d00
+       5   0.5%  28.6%       25   2.6% Eigen::PlainObjectBase::rows@100006460
+       5   0.5%  29.2%        5   0.5% Eigen::internal::conj_if::pconj
+       5   0.5%  29.7%       28   2.9% Eigen::internal::gebp_kernel::operator
+       5   0.5%  30.2%        6   0.6% Eigen::internal::mapbase_evaluator::coeffRef@301a0
+       5   0.5%  30.7%        5   0.5% Eigen::internal::scalar_constant_op::operator
+       5   0.5%  31.2%        5   0.5% Eigen::internal::variable_if_dynamic::value@100011510
+       5   0.5%  31.8%      167  17.4% deplex::CellSegmentStat::fitPlane
+       5   0.5%  32.3%        5   0.5% std::__1::__bit_reference::operator bool
+       5   0.5%  32.8%       11   1.1% std::__1::vector::__make_ref@3dc40
+       4   0.4%  33.2%        4   0.4% 0x00007ff81600c1b3
+       4   0.4%  33.6%       29   3.0% Eigen::Block::Block@3e830
+       4   0.4%  34.1%        4   0.4% Eigen::EigenBase::derived@100009480
+       4   0.4%  34.5%        4   0.4% Eigen::MapBase::data@3eee0
+       4   0.4%  34.9%       21   2.2% Eigen::internal::check_for_aliasing@8160
+       4   0.4%  35.3%       18   1.9% Eigen::internal::conj_helper::pmadd
+       4   0.4%  35.7%        4   0.4% Eigen::internal::evaluator::coeffRef@39e00
+       4   0.4%  36.1%       17   1.8% Eigen::internal::generic_dense_assignment_kernel::assignCoeff@2e070
+       4   0.4%  36.6%        4   0.4% Eigen::internal::mapbase_evaluator::coeff@2e140
+       4   0.4%  37.0%        4   0.4% Eigen::internal::padd
+       4   0.4%  37.4%        4   0.4% stbi__create_png_image_raw
+       3   0.3%  37.7%        3   0.3% 0x00007ff815fbebba
+       3   0.3%  38.0%       35   3.6% Eigen::DenseBase::innerSize@100010da0
+       3   0.3%  38.3%       20   2.1% Eigen::DenseBase::innerSize@217c0
+       3   0.3%  38.6%        9   0.9% Eigen::DenseBase::innerSize@2ef90
+       3   0.3%  39.0%        5   0.5% Eigen::DenseBase::outerSize@300b0
+       3   0.3%  39.3%        5   0.5% Eigen::EigenBase::cols@2efb0
+       3   0.3%  39.6%        7   0.7% Eigen::MapBase::MapBase@9c20
+       3   0.3%  39.9%        3   0.3% Eigen::MapBase::cols@21a60
+       3   0.3%  40.2%        3   0.3% Eigen::MapBase::data@9540
+       3   0.3%  40.5%        3   0.3% Eigen::MapBase::rows@8f00
+       3   0.3%  40.8%        3   0.3% Eigen::PlainObjectBase::rows@364f0
+       3   0.3%  41.1%        6   0.6% Eigen::Transpose::Transpose
+       3   0.3%  41.5%        3   0.3% Eigen::Transpose::cols@8600
+       3   0.3%  41.8%       21   2.2% Eigen::internal::BlockImpl_dense::BlockImpl_dense@9b50
+       3   0.3%  42.1%        3   0.3% Eigen::internal::add_assign_op::assignCoeff
+       3   0.3%  42.4%        3   0.3% Eigen::internal::aligned_stack_memory_handler::aligned_stack_memory_handler@11a80
+       3   0.3%  42.7%        7   0.7% Eigen::internal::binary_evaluator::coeff@27130
+       3   0.3%  43.0%       11   1.1% Eigen::internal::binary_evaluator::coeff@58bc0
+       3   0.3%  43.3%       11   1.1% Eigen::internal::binary_evaluator::~binary_evaluator@22b60
+       3   0.3%  43.6%        3   0.3% Eigen::internal::conj_if::operator
+       3   0.3%  44.0%       46   4.8% Eigen::internal::copy_using_evaluator_DefaultTraversal_InnerUnrolling::run@22be0
+       3   0.3%  44.3%        4   0.4% Eigen::internal::evaluator::coeff@1edc0
+       3   0.3%  44.6%        3   0.3% Eigen::internal::evaluator::coeff@39e50
+       3   0.3%  44.9%        3   0.3% Eigen::internal::evaluator::coeff@58ca0
+       3   0.3%  45.2%        9   0.9% Eigen::internal::gemm_pack_lhs::operator
+       3   0.3%  45.5%       25   2.6% Eigen::internal::generic_dense_assignment_kernel::assignCoeff@30130
+       3   0.3%  45.8%      105  10.9% Eigen::internal::generic_dense_assignment_kernel::assignCoeffByOuterInner@20fd0
+       3   0.3%  46.1%        3   0.3% Eigen::internal::generic_dense_assignment_kernel::colIndexByOuterInner@2e050
+       3   0.3%  46.5%       10   1.0% Eigen::internal::generic_dense_assignment_kernel::innerSize@30010
+       3   0.3%  46.8%        3   0.3% Eigen::internal::generic_dense_assignment_kernel::rowIndexByOuterInner@2e030
+       3   0.3%  47.1%        3   0.3% Eigen::internal::mapbase_evaluator::coeffRef@57110
+       3   0.3%  47.4%        9   0.9% Eigen::internal::mapbase_evaluator::mapbase_evaluator@22530
+       3   0.3%  47.7%       13   1.4% Eigen::internal::mapbase_evaluator::mapbase_evaluator@3ee30
+       3   0.3%  48.0%        3   0.3% Eigen::internal::plainobjectbase_evaluator_data::outerStride
+       3   0.3%  48.3%        3   0.3% Eigen::internal::resize_if_allowed@d3b0
+       3   0.3%  48.6%        3   0.3% Eigen::internal::scalar_conj_product_op::scalar_conj_product_op
+       3   0.3%  49.0%        3   0.3% Eigen::internal::scalar_difference_op::operator
+       3   0.3%  49.3%        3   0.3% Eigen::internal::scalar_quotient_op::operator
+       3   0.3%  49.6%        3   0.3% Eigen::internal::variable_if_dynamic::value@100008e50
+       3   0.3%  49.9%        4   0.4% Eigen::internal::variable_if_dynamic::variable_if_dynamic@f7b0
+       3   0.3%  50.2%       85   8.9% deplex::CellGrid::cellContinuousOrganize
+       3   0.3%  50.5%       23   2.4% deplex::CellSegment::operator=
+       3   0.3%  50.8%       43   4.5% deplex::PlaneExtractor::Impl::growSeed
+       3   0.3%  51.1%        6   0.6% std::__1::__bit_reference::__bit_reference@3dc90
+       3   0.3%  51.5%        3   0.3% std::__1::__bit_reference::__bit_reference@3dcc0
+       3   0.3%  51.8%       12   1.2% std::__1::vector::operator[]@35860
+       2   0.2%  52.0%        2   0.2% 0x00007ff815fbc8d2
+       2   0.2%  52.2%        2   0.2% 0x00007ff81600c1ad
+       2   0.2%  52.4%        2   0.2% 0x00007ff81600c5d3
+       2   0.2%  52.6%        6   0.6% Eigen::Block::Block@2ecc0
+       2   0.2%  52.8%        5   0.5% Eigen::Block::Block@2f140
+       2   0.2%  53.0%       10   1.0% Eigen::BlockImpl::BlockImpl@21580
+       2   0.2%  53.2%        8   0.8% Eigen::CwiseBinaryOp::CwiseBinaryOp@218f0
+       2   0.2%  53.4%        2   0.2% Eigen::CwiseBinaryOp::cols@202b0
+       2   0.2%  53.6%        2   0.2% Eigen::CwiseBinaryOp::rows@20290
+       2   0.2%  53.9%        5   0.5% Eigen::CwiseBinaryOp::rows@267b0
+       2   0.2%  54.1%        2   0.2% Eigen::CwiseNullaryOp::CwiseNullaryOp
+       2   0.2%  54.3%        2   0.2% Eigen::CwiseUnaryOp::cols@267d0
+       2   0.2%  54.5%        2   0.2% Eigen::DenseBase::DenseBase
+       2   0.2%  54.7%        3   0.3% Eigen::DenseBase::NullaryExpr@26040
+       2   0.2%  54.9%        7   0.7% Eigen::DenseBase::innerSize@300d0
+       2   0.2%  55.1%       34   3.5% Eigen::DenseBase::row@359c0
+       2   0.2%  55.3%       10   1.0% Eigen::DenseBase::setZero
+       2   0.2%  55.5%       15   1.6% Eigen::DenseCoeffsBase::operator
+       2   0.2%  55.7%        2   0.2% Eigen::DenseStorage::cols
+       2   0.2%  55.9%        2   0.2% Eigen::DenseStorage::data@100016770
+       2   0.2%  56.1%        7   0.7% Eigen::EigenBase::cols@3ec30
+       2   0.2%  56.4%        3   0.3% Eigen::EigenBase::derived@2eff0
+       2   0.2%  56.6%        2   0.2% Eigen::EigenBase::derived@38bc0
+       2   0.2%  56.8%        2   0.2% Eigen::EigenBase::derived@8080
+       2   0.2%  57.0%        2   0.2% Eigen::EigenBase::derived@8b80
+       2   0.2%  57.2%        3   0.3% Eigen::EigenBase::rows@21820
+       2   0.2%  57.4%       10   1.0% Eigen::EigenBase::size@265c0
+       2   0.2%  57.6%       10   1.0% Eigen::EigenBase::size@3eb40
+       2   0.2%  57.8%        3   0.3% Eigen::EigenBase::size@8d30
+       2   0.2%  58.0%        2   0.2% Eigen::MapBase::cols@27a90
+       2   0.2%  58.2%        5   0.5% Eigen::MapBase::cols@2f810
+       2   0.2%  58.4%        2   0.2% Eigen::MapBase::rows@21a00
+       2   0.2%  58.6%        2   0.2% Eigen::Matrix::innerStride@3e9c0
+       2   0.2%  58.9%       17   1.8% Eigen::Matrix::outerStride@21790
+       2   0.2%  59.1%        7   0.7% Eigen::PlainObjectBase::_set@d180
+       2   0.2%  59.3%        2   0.2% Eigen::PlainObjectBase::cols@36550
+       2   0.2%  59.5%        3   0.3% Eigen::PlainObjectBase::cols@8690
+       2   0.2%  59.7%        2   0.2% Eigen::PlainObjectBase::rows@a0d0
+       2   0.2%  59.9%        6   0.6% Eigen::Replicate::cols
+       2   0.2%  60.1%        3   0.3% Eigen::Transpose::cols@9ea0
+       2   0.2%  60.3%        2   0.2% Eigen::Transpose::nestedExpression@8880
+       2   0.2%  60.5%        3   0.3% Eigen::TransposeImpl::coeffRef
+       2   0.2%  60.7%       14   1.5% Eigen::internal::BlockImpl_dense::BlockImpl_dense@21ba0
+       2   0.2%  60.9%       23   2.4% Eigen::internal::BlockImpl_dense::BlockImpl_dense@3e910
+       2   0.2%  61.1%        2   0.2% Eigen::internal::assign_op::assignCoeff@43f00
+       2   0.2%  61.4%        3   0.3% Eigen::internal::assign_op::assignPacket
+       2   0.2%  61.6%        2   0.2% Eigen::internal::binary_evaluator::Data::func@58b10
+       2   0.2%  61.8%       99  10.3% Eigen::internal::binary_evaluator::coeff@21120
+       2   0.2%  62.0%       17   1.8% Eigen::internal::binary_evaluator::coeff@58b20
+       2   0.2%  62.2%       17   1.8% Eigen::internal::block_evaluator::block_evaluator@3ed70
+       2   0.2%  62.4%       48   5.0% Eigen::internal::call_dense_assignment_loop@2db60
+       2   0.2%  62.6%        2   0.2% Eigen::internal::cast_impl::run
+       2   0.2%  62.8%        2   0.2% Eigen::internal::check_for_aliasing@20350
+       2   0.2%  63.0%       16   1.7% Eigen::internal::copy_using_evaluator_DefaultTraversal_InnerUnrolling::run@39d10
+       2   0.2%  63.2%       40   4.2% Eigen::internal::dense_assignment_loop::run@2dd70
+       2   0.2%  63.4%        2   0.2% Eigen::internal::destruct_elements_of_array
+       2   0.2%  63.6%        2   0.2% Eigen::internal::evaluator::coeff@44060
+       2   0.2%  63.9%        2   0.2% Eigen::internal::evaluator::coeffRef@1eca0
+       2   0.2%  64.1%        2   0.2% Eigen::internal::evaluator::coeffRef@54740
+       2   0.2%  64.3%       40   4.2% Eigen::internal::evaluator::evaluator
+       2   0.2%  64.5%        2   0.2% Eigen::internal::evaluator::packet@1f8b0
+       2   0.2%  64.7%        4   0.4% Eigen::internal::evaluator_wrapper_base::coeff@58c70
+       2   0.2%  64.9%       13   1.4% Eigen::internal::generic_dense_assignment_kernel::assignCoeff@39d90
+       2   0.2%  65.1%       16   1.7% Eigen::internal::generic_dense_assignment_kernel::assignCoeff@43ea0
+       2   0.2%  65.3%       30   3.1% Eigen::internal::generic_dense_assignment_kernel::assignCoeff@58a40
+       2   0.2%  65.5%       19   2.0% Eigen::internal::generic_dense_assignment_kernel::assignCoeffByOuterInner@2dfb0
+       2   0.2%  65.7%       19   2.0% Eigen::internal::generic_dense_assignment_kernel::assignCoeffByOuterInner@54550
+       2   0.2%  65.9%       20   2.1% Eigen::internal::generic_dense_assignment_kernel::assignCoeffByOuterInner@59360
+       2   0.2%  66.1%        2   0.2% Eigen::internal::generic_dense_assignment_kernel::rowIndexByOuterInner@593c0
+       2   0.2%  66.4%        2   0.2% Eigen::internal::linspaced_op_impl::operator
+       2   0.2%  66.6%        2   0.2% Eigen::internal::mapbase_evaluator::coeff@272a0
+       2   0.2%  66.8%        2   0.2% Eigen::internal::mapbase_evaluator::coeff@97c0
+       2   0.2%  67.0%        3   0.3% Eigen::internal::mapbase_evaluator::colStride@302e0
+       2   0.2%  67.2%        7   0.7% Eigen::internal::mapbase_evaluator::mapbase_evaluator@284b0
+       2   0.2%  67.4%        5   0.5% Eigen::internal::mapbase_evaluator::mapbase_evaluator@432c0
+       2   0.2%  67.6%        5   0.5% Eigen::internal::nullary_wrapper::operator@54860
+       2   0.2%  67.8%        5   0.5% Eigen::internal::plainobjectbase_evaluator_data::plainobjectbase_evaluator_data
+       2   0.2%  68.0%        2   0.2% Eigen::internal::ploadu
+       2   0.2%  68.2%       10   1.0% Eigen::internal::pmadd
+       2   0.2%  68.4%       95   9.9% Eigen::internal::product_evaluator::coeff
+       2   0.2%  68.6%        2   0.2% Eigen::internal::resize_if_allowed@2dc90
+       2   0.2%  68.9%        3   0.3% Eigen::internal::resize_if_allowed@82c0
+       2   0.2%  69.1%        2   0.2% Eigen::internal::scalar_sum_op::packetOp
+       2   0.2%  69.3%        2   0.2% Eigen::internal::unary_evaluator::Data::func
+       2   0.2%  69.5%        7   0.7% Eigen::internal::variable_if_dynamic::variable_if_dynamic@d0d0
+       2   0.2%  69.7%        2   0.2% Eigen::internal::variable_if_dynamic::variable_if_dynamic@d100
+       2   0.2%  69.9%        2   0.2% __GLOBAL__sub_I_segmentation_plane_image.cpp
+       2   0.2%  70.1%       23   2.4% deplex::CellSegment::isHorizontalContinuous
+       2   0.2%  70.3%        7   0.7% deplex::NormalsHistogram::getPointsFromMostFrequentBin
+       2   0.2%  70.5%        4   0.4% std::__1::__split_buffer::__split_buffer@2e770
+       2   0.2%  70.7%        2   0.2% std::__1::__to_address
+       2   0.2%  70.9%        2   0.2% std::__1::__vector_base::__alloc
+       2   0.2%  71.1%        2   0.2% std::__1::allocator::construct@41cf0
+       1   0.1%  71.2%        1   0.1% 00007ff815e1476c
+       1   0.1%  71.4%        1   0.1% 00007ff815e14fc6
+       1   0.1%  71.5%        1   0.1% 00007ff815e150ea
+       1   0.1%  71.6%        1   0.1% 00007ff815e152b6
+       1   0.1%  71.7%        1   0.1% 00007ff815e154c5
+       1   0.1%  71.8%        1   0.1% 00007ff815e15553
+       1   0.1%  71.9%        1   0.1% 00007ff815e155b2
+       1   0.1%  72.0%        1   0.1% 00007ff815e1565c
+       1   0.1%  72.1%        1   0.1% 00007ff815e1a47b
+       1   0.1%  72.2%        1   0.1% 00007ff815e30a46
+       1   0.1%  72.3%        1   0.1% 00007ff815f77089
+       1   0.1%  72.4%        1   0.1% 00007ff820d28c96
+       1   0.1%  72.5%        1   0.1% 00007ff820d3a76f
+       1   0.1%  72.6%        1   0.1% 00007ff820d3a831
+       1   0.1%  72.7%        1   0.1% 00007ff820d3a87e
+       1   0.1%  72.8%        1   0.1% 00007ff820d3a8ac
+       1   0.1%  72.9%        1   0.1% 00007ff820d3b6c1
+       1   0.1%  73.0%        1   0.1% 00007ff820d3b732
+       1   0.1%  73.1%        1   0.1% 0x00007ff81600c1b9
+       1   0.1%  73.2%        1   0.1% 0x00007ff81600c1c1
+       1   0.1%  73.3%        1   0.1% 0x00007ff81600c26c
+       1   0.1%  73.4%       12   1.2% Eigen::Block::Block@214d0
+       1   0.1%  73.5%       19   2.0% Eigen::Block::Block@21ad0
+       1   0.1%  73.6%        4   0.4% Eigen::Block::Block@27670
+       1   0.1%  73.8%       31   3.2% Eigen::Block::Block@3e800
+       1   0.1%  73.9%       23   2.4% Eigen::Block::Block@9a80
+       1   0.1%  74.0%       25   2.6% Eigen::BlockImpl::BlockImpl@3e8e0
+       1   0.1%  74.1%       23   2.4% Eigen::BlockImpl::BlockImpl@9b20
+       1   0.1%  74.2%        3   0.3% Eigen::CwiseBinaryOp::CwiseBinaryOp@1e190
+       1   0.1%  74.3%        3   0.3% Eigen::CwiseBinaryOp::CwiseBinaryOp@23020
+       1   0.1%  74.4%        1   0.1% Eigen::CwiseBinaryOp::CwiseBinaryOp@27ce0
+       1   0.1%  74.5%        1   0.1% Eigen::CwiseBinaryOp::cols@22090
+       1   0.1%  74.6%        1   0.1% Eigen::CwiseBinaryOp::cols@27f90
+       1   0.1%  74.7%        1   0.1% Eigen::CwiseBinaryOp::lhs
+       1   0.1%  74.8%        1   0.1% Eigen::CwiseBinaryOp::rhs
+       1   0.1%  74.9%        1   0.1% Eigen::CwiseNullaryOp::CwiseNullaryOp@26080
+       1   0.1%  75.0%        3   0.3% Eigen::CwiseNullaryOp::CwiseNullaryOp@cfb0
+       1   0.1%  75.1%        3   0.3% Eigen::CwiseNullaryOp::rows@1e3c0
+       1   0.1%  75.2%        1   0.1% Eigen::CwiseNullaryOp::rows@26340
+       1   0.1%  75.3%        1   0.1% Eigen::DenseBase::colwise
+       1   0.1%  75.4%       33   3.4% Eigen::DenseBase::count
+       1   0.1%  75.5%        2   0.2% Eigen::DenseBase::innerSize@b2c0
+       1   0.1%  75.6%        1   0.1% Eigen::DenseBase::operator-
+       1   0.1%  75.7%       45   4.7% Eigen::DenseBase::redux@21e20
+       1   0.1%  75.8%        9   0.9% Eigen::DenseBase::sum@8cc0
+       1   0.1%  75.9%       25   2.6% Eigen::DenseCoeffsBase::coeffRef@3eb80
+       1   0.1%  76.0%        1   0.1% Eigen::DenseCoeffsBase::innerStride
+       1   0.1%  76.1%        2   0.2% Eigen::DenseCoeffsBase::outerStride@100016710
+       1   0.1%  76.2%        3   0.3% Eigen::DenseCoeffsBase::outerStride@b230
+       1   0.1%  76.4%        1   0.1% Eigen::DenseStorage::DenseStorage
+       1   0.1%  76.5%        1   0.1% Eigen::DenseStorage::data@38b30
+       1   0.1%  76.6%        3   0.3% Eigen::DenseStorage::data@89c0
+       1   0.1%  76.7%        1   0.1% Eigen::DenseStorage::data@b270
+       1   0.1%  76.8%        1   0.1% Eigen::DenseStorage::rows@543c0
+       1   0.1%  76.9%        1   0.1% Eigen::DenseStorage::rows@86e0
+       1   0.1%  77.0%        5   0.5% Eigen::EigenBase::cols@21850
+       1   0.1%  77.1%        3   0.3% Eigen::EigenBase::cols@26750
+       1   0.1%  77.2%        2   0.2% Eigen::EigenBase::cols@27e80
+       1   0.1%  77.3%        3   0.3% Eigen::EigenBase::cols@2fd80
+       1   0.1%  77.4%        1   0.1% Eigen::EigenBase::cols@8b50
+       1   0.1%  77.5%        1   0.1% Eigen::EigenBase::cols@8ec0
+       1   0.1%  77.6%        1   0.1% Eigen::EigenBase::const_cast_derived
+       1   0.1%  77.7%        1   0.1% Eigen::EigenBase::derived@100009080
+       1   0.1%  77.8%        1   0.1% Eigen::EigenBase::derived@1fc10
+       1   0.1%  77.9%        1   0.1% Eigen::EigenBase::derived@20130
+       1   0.1%  78.0%        1   0.1% Eigen::EigenBase::derived@21e10
+       1   0.1%  78.1%        1   0.1% Eigen::EigenBase::derived@27930
+       1   0.1%  78.2%        1   0.1% Eigen::EigenBase::derived@2f500
+       1   0.1%  78.3%        1   0.1% Eigen::EigenBase::derived@38590
+       1   0.1%  78.4%        1   0.1% Eigen::EigenBase::derived@3ec60
+       1   0.1%  78.5%        1   0.1% Eigen::EigenBase::derived@54690
+       1   0.1%  78.6%        1   0.1% Eigen::EigenBase::derived@9db0
+       1   0.1%  78.8%        1   0.1% Eigen::EigenBase::derived@9fd0
+       1   0.1%  78.9%        1   0.1% Eigen::EigenBase::rows@23250
+       1   0.1%  79.0%        6   0.6% Eigen::EigenBase::rows@26710
+       1   0.1%  79.1%        2   0.2% Eigen::EigenBase::rows@2fd40
+       1   0.1%  79.2%        3   0.3% Eigen::EigenBase::rows@38b50
+       1   0.1%  79.3%        1   0.1% Eigen::EigenBase::rows@3ebf0
+       1   0.1%  79.4%        1   0.1% Eigen::EigenBase::rows@43090
+       1   0.1%  79.5%        3   0.3% Eigen::EigenBase::rows@54620
+       1   0.1%  79.6%        1   0.1% Eigen::EigenBase::rows@8e80
+       1   0.1%  79.7%        5   0.5% Eigen::EigenBase::size@545e0
+       1   0.1%  79.8%        2   0.2% Eigen::Map::Map@7a10
+       1   0.1%  79.9%        2   0.2% Eigen::MapBase::MapBase@21660
+       1   0.1%  80.0%        1   0.1% Eigen::MapBase::MapBase@3bb10
+       1   0.1%  80.1%        8   0.8% Eigen::MapBase::MapBase@3ea40
+       1   0.1%  80.2%        1   0.1% Eigen::MapBase::checkSanity@21dd0
+       1   0.1%  80.3%        1   0.1% Eigen::MapBase::checkSanity@9d50
+       1   0.1%  80.4%        4   0.4% Eigen::MapBase::cols@3ec90
+       1   0.1%  80.5%        1   0.1% Eigen::MapBase::data@225f0
+       1   0.1%  80.6%        1   0.1% Eigen::MapBase::data@22830
+       1   0.1%  80.7%        1   0.1% Eigen::MapBase::data@2fbf0
+       1   0.1%  80.8%       11   1.1% Eigen::Matrix::Matrix@1e440
+       1   0.1%  80.9%        8   0.8% Eigen::Matrix::Matrix@23910
+       1   0.1%  81.0%        2   0.2% Eigen::Matrix::Matrix@7c60
+       1   0.1%  81.1%        1   0.1% Eigen::Matrix::innerStride@100011750
+       1   0.1%  81.2%        2   0.2% Eigen::Matrix::outerStride@b290
+       1   0.1%  81.4%        4   0.4% Eigen::MatrixBase::binaryExpr
+       1   0.1%  81.5%       10   1.0% Eigen::MatrixBase::cwiseProduct
+       1   0.1%  81.6%        5   0.5% Eigen::MatrixBase::operator/@6da0
+       1   0.1%  81.7%        2   0.2% Eigen::PartialReduxExpr::PartialReduxExpr@8490
+       1   0.1%  81.8%       11   1.1% Eigen::PlainObjectBase::_init1@1e480
+       1   0.1%  81.9%        1   0.1% Eigen::PlainObjectBase::_init1@22e10
+       1   0.1%  82.0%       24   2.5% Eigen::PlainObjectBase::_init1@7fb0
+       1   0.1%  82.1%        1   0.1% Eigen::PlainObjectBase::cols@100009190
+       1   0.1%  82.2%        1   0.1% Eigen::PlainObjectBase::cols@a0f0
+       1   0.1%  82.3%        2   0.2% Eigen::PlainObjectBase::data@387d0
+       1   0.1%  82.4%        2   0.2% Eigen::PlainObjectBase::data@8970
+       1   0.1%  82.5%        1   0.1% Eigen::PlainObjectBase::data@b210
+       1   0.1%  82.6%        4   0.4% Eigen::PlainObjectBase::resize@100008ce0
+       1   0.1%  82.7%        4   0.4% Eigen::PlainObjectBase::resizeLike@20190
+       1   0.1%  82.8%        1   0.1% Eigen::PlainObjectBase::resizeLike@239b0
+       1   0.1%  82.9%        2   0.2% Eigen::Product::Product@20d20
+       1   0.1%  83.0%        1   0.1% Eigen::Product::Product@9df0
+       1   0.1%  83.1%        1   0.1% Eigen::Product::lhs
+       1   0.1%  83.2%        1   0.1% Eigen::Product::rows
+       1   0.1%  83.3%        1   0.1% Eigen::Transpose::nestedExpression@a900
+       1   0.1%  83.4%        1   0.1% Eigen::Transpose::rows@219e0
+       1   0.1%  83.5%        3   0.3% Eigen::Transpose::rows@85e0
+       1   0.1%  83.6%       17   1.8% Eigen::TransposeImpl::outerStride@21de0
+       1   0.1%  83.8%       13   1.4% Eigen::internal::Assignment::run@1e560
+       1   0.1%  83.9%      122  12.7% Eigen::internal::Assignment::run@20310
+       1   0.1%  84.0%        3   0.3% Eigen::internal::Assignment::run@23b80
+       1   0.1%  84.1%        5   0.5% Eigen::internal::Assignment::run@31f30
+       1   0.1%  84.2%       78   8.1% Eigen::internal::Assignment::run@9ff0
+       1   0.1%  84.3%        4   0.4% Eigen::internal::BlockImpl_dense::BlockImpl_dense@2ee20
+       1   0.1%  84.4%        3   0.3% Eigen::internal::BlockImpl_dense::BlockImpl_dense@2f2a0
+       1   0.1%  84.5%        6   0.6% Eigen::internal::BlockImpl_dense::init@21750
+       1   0.1%  84.6%        1   0.1% Eigen::internal::BlockImpl_dense::init@278f0
+       1   0.1%  84.7%        1   0.1% Eigen::internal::BlockImpl_dense::init@3ea10
+       1   0.1%  84.8%        1   0.1% Eigen::internal::BlockImpl_dense::innerStride@9560
+       1   0.1%  84.9%        3   0.3% Eigen::internal::BlockImpl_dense::outerStride@22630
+       1   0.1%  85.0%        2   0.2% Eigen::internal::BlockImpl_dense::outerStride@2fc30
+       1   0.1%  85.1%        5   0.5% Eigen::internal::BlockImpl_dense::outerStride@95b0
+       1   0.1%  85.2%        1   0.1% Eigen::internal::abs2_impl_default::run
+       1   0.1%  85.3%       21   2.2% Eigen::internal::binary_evaluator::Data::Data@221a0
+       1   0.1%  85.4%        1   0.1% Eigen::internal::binary_evaluator::Data::Data@234d0
+       1   0.1%  85.5%        1   0.1% Eigen::internal::binary_evaluator::Data::func@1ed80
+       1   0.1%  85.6%        1   0.1% Eigen::internal::binary_evaluator::Data::func@21190
+       1   0.1%  85.7%        1   0.1% Eigen::internal::binary_evaluator::Data::func@271f0
+       1   0.1%  85.8%        1   0.1% Eigen::internal::binary_evaluator::Data::func@28840
+       1   0.1%  85.9%        5   0.5% Eigen::internal::binary_evaluator::Data::~Data@22b90
+       1   0.1%  86.0%       94   9.8% Eigen::internal::binary_evaluator::coeff@211d0
+       1   0.1%  86.1%        4   0.4% Eigen::internal::binary_evaluator::coeff@228f0
+       1   0.1%  86.2%        1   0.1% Eigen::internal::blas_traits::extractScalarFactor
+       1   0.1%  86.4%        4   0.4% Eigen::internal::call_assignment_no_alias@23b40
+       1   0.1%  86.5%       13   1.4% Eigen::internal::call_dense_assignment_loop@1e5b0
+       1   0.1%  86.6%        3   0.3% Eigen::internal::call_dense_assignment_loop@23bd0
+       1   0.1%  86.7%        4   0.4% Eigen::internal::call_dense_assignment_loop@31f80
+       1   0.1%  86.8%       23   2.4% Eigen::internal::call_dense_assignment_loop@8170
+       1   0.1%  86.9%        1   0.1% Eigen::internal::cast@271b0
+       1   0.1%  87.0%        1   0.1% Eigen::internal::checkTransposeAliasing_impl::run
+       1   0.1%  87.1%        4   0.4% Eigen::internal::computeProductBlockingSizes
+       1   0.1%  87.2%        6   0.6% Eigen::internal::conditional_aligned_free
+       1   0.1%  87.3%        3   0.3% Eigen::internal::conditional_aligned_new_auto
+       1   0.1%  87.4%        3   0.3% Eigen::internal::conj_helper::pmul
+       1   0.1%  87.5%       22   2.3% Eigen::internal::copy_using_evaluator_DefaultTraversal_InnerUnrolling::run@39c20
+       1   0.1%  87.6%        1   0.1% Eigen::internal::copy_using_evaluator_innervec_CompleteUnrolling::run@1eb30
+       1   0.1%  87.7%        6   0.6% Eigen::internal::dense_assignment_loop::run@1e7b0
+       1   0.1%  87.8%      109  11.4% Eigen::internal::dense_assignment_loop::run@205a0
+       1   0.1%  87.9%       49   5.1% Eigen::internal::dense_assignment_loop::run@2f980
+       1   0.1%  88.0%       31   3.2% Eigen::internal::dense_assignment_loop::run@57dc0
+       1   0.1%  88.1%       27   2.8% Eigen::internal::dense_assignment_loop::run@59260
+       1   0.1%  88.2%        2   0.2% Eigen::internal::evaluator::coeff@1ee20
+       1   0.1%  88.3%        3   0.3% Eigen::internal::evaluator::coeff@212f0
+       1   0.1%  88.4%        2   0.2% Eigen::internal::evaluator::coeff@27230
+       1   0.1%  88.5%        6   0.6% Eigen::internal::evaluator::coeff@54820
+       1   0.1%  88.6%        3   0.3% Eigen::internal::evaluator::coeff@58b80
+       1   0.1%  88.8%        1   0.1% Eigen::internal::evaluator::coeff@59470
+       1   0.1%  88.9%        1   0.1% Eigen::internal::evaluator::coeffRef@b4d0
+       1   0.1%  89.0%       12   1.2% Eigen::internal::evaluator::evaluator@223e0
+       1   0.1%  89.1%       11   1.1% Eigen::internal::evaluator::evaluator@22410
+       1   0.1%  89.2%        8   0.8% Eigen::internal::evaluator::evaluator@22650
+       1   0.1%  89.3%        2   0.2% Eigen::internal::evaluator::evaluator@2dc60
+       1   0.1%  89.4%       18   1.9% Eigen::internal::evaluator::evaluator@3ecc0
+       1   0.1%  89.5%        1   0.1% Eigen::internal::evaluator::evaluator@84d0
+       1   0.1%  89.6%        6   0.6% Eigen::internal::evaluator::evaluator@88d0
+       1   0.1%  89.7%        7   0.7% Eigen::internal::evaluator::evaluator@8900
+       1   0.1%  89.8%       10   1.0% Eigen::internal::evaluator::evaluator@93a0
+       1   0.1%  89.9%        1   0.1% Eigen::internal::evaluator::packet@100016b80
+       1   0.1%  90.0%        1   0.1% Eigen::internal::evaluator::packet@100017340
+       1   0.1%  90.1%        4   0.4% Eigen::internal::evaluator::~evaluator@23800
+       1   0.1%  90.2%        1   0.1% Eigen::internal::evaluator::~evaluator@27380
+       1   0.1%  90.3%        1   0.1% Eigen::internal::evaluator::~evaluator@30320
+       1   0.1%  90.4%        3   0.3% Eigen::internal::evaluator_wrapper_base::coeff@58c30
+       1   0.1%  90.5%        1   0.1% Eigen::internal::evaluator_wrapper_base::~evaluator_wrapper_base
+       1   0.1%  90.6%        5   0.5% Eigen::internal::gemm_blocking_space::gemm_blocking_space@14700
+       1   0.1%  90.7%        1   0.1% Eigen::internal::gemm_functor::gemm_functor
+       1   0.1%  90.8%       27   2.8% Eigen::internal::generic_dense_assignment_kernel::assignCoeff@55380
+       1   0.1%  90.9%       15   1.6% Eigen::internal::generic_dense_assignment_kernel::assignCoeff@59400
+       1   0.1%  91.0%        4   0.4% Eigen::internal::generic_dense_assignment_kernel::assignPacket@100016a00
+       1   0.1%  91.1%        3   0.3% Eigen::internal::generic_dense_assignment_kernel::assignPacket@100017270
+       1   0.1%  91.2%        1   0.1% Eigen::internal::generic_dense_assignment_kernel::colIndexByOuterInner@30110
+       1   0.1%  91.4%       11   1.1% Eigen::internal::generic_dense_assignment_kernel::innerSize@2df90
+       1   0.1%  91.5%        6   0.6% Eigen::internal::generic_dense_assignment_kernel::innerSize@59340
+       1   0.1%  91.6%        6   0.6% Eigen::internal::generic_dense_assignment_kernel::outerSize@2ffd0
+       1   0.1%  91.7%        1   0.1% Eigen::internal::generic_dense_assignment_kernel::rowIndexByOuterInner@546a0
+       1   0.1%  91.8%       78   8.1% Eigen::internal::generic_product_impl::evalTo
+       1   0.1%  91.9%        1   0.1% Eigen::internal::ignore_unused_variable
+       1   0.1%  92.0%        1   0.1% Eigen::internal::level3_blocking::nc
+       1   0.1%  92.1%        4   0.4% Eigen::internal::linspaced_op::operator
+       1   0.1%  92.2%        1   0.1% Eigen::internal::manage_caching_sizes
+       1   0.1%  92.3%        1   0.1% Eigen::internal::mapbase_evaluator::coeff@229a0
+       1   0.1%  92.4%        2   0.2% Eigen::internal::mapbase_evaluator::coeff@22a20
+       1   0.1%  92.5%        2   0.2% Eigen::internal::mapbase_evaluator::coeff@58cc0
+       1   0.1%  92.6%        2   0.2% Eigen::internal::mapbase_evaluator::coeffRef@3c5d0
+       1   0.1%  92.7%        1   0.1% Eigen::internal::mapbase_evaluator::coeffRef@3ecf0
+       1   0.1%  92.8%        1   0.1% Eigen::internal::mapbase_evaluator::colStride@22aa0
+       1   0.1%  92.9%        1   0.1% Eigen::internal::mapbase_evaluator::colStride@2e1e0
+       1   0.1%  93.0%        8   0.8% Eigen::internal::mapbase_evaluator::mapbase_evaluator@22770
+       1   0.1%  93.1%        1   0.1% Eigen::internal::mapbase_evaluator::rowStride@2e210
+       1   0.1%  93.2%        6   0.6% Eigen::internal::nullary_wrapper::operator@1ee60
+       1   0.1%  93.3%        1   0.1% Eigen::internal::pmax@100005040
+       1   0.1%  93.4%        1   0.1% Eigen::internal::prefetch
+       1   0.1%  93.5%        1   0.1% Eigen::internal::pstore
+       1   0.1%  93.6%        9   0.9% Eigen::internal::redux_evaluator::coeffByOuterInner@236d0
+       1   0.1%  93.8%       13   1.4% Eigen::internal::redux_evaluator::coeffByOuterInner@27020
+       1   0.1%  93.9%        1   0.1% Eigen::internal::redux_evaluator::redux_evaluator@248e0
+       1   0.1%  94.0%        3   0.3% Eigen::internal::redux_evaluator::redux_evaluator@26810
+       1   0.1%  94.1%        2   0.2% Eigen::internal::redux_evaluator::redux_evaluator@26a30
+       1   0.1%  94.2%        6   0.6% Eigen::internal::redux_evaluator::redux_evaluator@27fb0
+       1   0.1%  94.3%        2   0.2% Eigen::internal::redux_evaluator::~redux_evaluator@26a10
+       1   0.1%  94.4%        2   0.2% Eigen::internal::redux_evaluator::~redux_evaluator@27360
+       1   0.1%  94.5%        7   0.7% Eigen::internal::redux_impl::run@21fb0
+       1   0.1%  94.6%       21   2.2% Eigen::internal::redux_impl::run@26840
+       1   0.1%  94.7%        5   0.5% Eigen::internal::redux_impl::run@27ee0
+       1   0.1%  94.8%        5   0.5% Eigen::internal::redux_novec_unroller::run@22890
+       1   0.1%  94.9%        2   0.2% Eigen::internal::redux_novec_unroller::run@237b0
+       1   0.1%  95.0%       13   1.4% Eigen::internal::reshaped_evaluator::coeff@43f40
+       1   0.1%  95.1%       24   2.5% Eigen::internal::reshaped_evaluator::coeff@55400
+       1   0.1%  95.2%        2   0.2% Eigen::internal::resize_if_allowed@1e6d0
+       1   0.1%  95.3%        2   0.2% Eigen::internal::resize_if_allowed@204d0
+       1   0.1%  95.4%        1   0.1% Eigen::internal::restricted_packet_dense_assignment_kernel::restricted_packet_dense_assignment_kernel
+       1   0.1%  95.5%        4   0.4% Eigen::internal::scalar_conj_product_op::operator
+       1   0.1%  95.6%        1   0.1% Eigen::internal::scalar_constant_op::scalar_constant_op
+       1   0.1%  95.7%        1   0.1% Eigen::internal::scalar_product_op::operator
+       1   0.1%  95.8%        1   0.1% Eigen::internal::scalar_sum_op::scalar_sum_op
+       1   0.1%  95.9%       10   1.0% Eigen::internal::unary_evaluator::coeff@270a0
+       1   0.1%  96.0%        3   0.3% Eigen::internal::unary_evaluator::coeff@286e0
+       1   0.1%  96.1%        3   0.3% Eigen::internal::unary_evaluator::coeff@57160
+       1   0.1%  96.2%        1   0.1% Eigen::internal::variable_if_dynamic::variable_if_dynamic@f820
+       1   0.1%  96.4%        1   0.1% acos
+       1   0.1%  96.5%        2   0.2% deplex::CellGrid::operator[]
+       1   0.1%  96.6%      399  41.6% deplex::CellSegment::CellSegment@24ee0
+       1   0.1%  96.7%       15   1.6% deplex::CellSegment::isVerticalContinuous
+       1   0.1%  96.8%      289  30.1% deplex::CellSegmentStat::CellSegmentStat@6b30
+       1   0.1%  96.9%        1   0.1% deplex::CellSegmentStat::getMSE
+       1   0.1%  97.0%       20   2.1% deplex::CellSegmentStat::operator+=
+       1   0.1%  97.1%       16   1.7% deplex::NormalsHistogram::NormalsHistogram@30410
+       1   0.1%  97.2%        1   0.1% stbi__fill_bits
+       1   0.1%  97.3%        3   0.3% stbi__parse_huffman_block
+       1   0.1%  97.4%        2   0.2% stbi__zhuffman_decode
+       1   0.1%  97.5%        1   0.1% std::__1::__bit_const_reference::__bit_const_reference@3b8b0
+       1   0.1%  97.6%        1   0.1% std::__1::__bit_reference::__bit_reference@2e2b0
+       1   0.1%  97.7%        1   0.1% std::__1::__compressed_pair_elem::__get
+       1   0.1%  97.8%        1   0.1% std::__1::__deque_base::__alloc
+       1   0.1%  97.9%        1   0.1% std::__1::__deque_base::end
+       1   0.1%  98.0%        1   0.1% std::__1::__fill_n
+       1   0.1%  98.1%        1   0.1% std::__1::__split_buffer::__alloc
+       1   0.1%  98.2%        1   0.1% std::__1::__split_buffer::__destruct_at_end@2eb80
+       1   0.1%  98.3%        2   0.2% std::__1::__vector_base::__end_cap
+       1   0.1%  98.4%        1   0.1% std::__1::allocator::construct@2e4f0
+       1   0.1%  98.5%        1   0.1% std::__1::allocator::construct@317c0
+       1   0.1%  98.6%        1   0.1% std::__1::forward
+       1   0.1%  98.8%        2   0.2% std::__1::max@16030
+       1   0.1%  98.9%        1   0.1% std::__1::max@16060
+       1   0.1%  99.0%        1   0.1% std::__1::max_element@7b80
+       1   0.1%  99.1%        1   0.1% std::__1::move
+       1   0.1%  99.2%        1   0.1% std::__1::operator!=
+       1   0.1%  99.3%        1   0.1% std::__1::swap
+       1   0.1%  99.4%        1   0.1% std::__1::vector::__construct_one_at_end@2e310
+       1   0.1%  99.5%        1   0.1% std::__1::vector::__construct_one_at_end@323c0
+       1   0.1%  99.6%        2   0.2% std::__1::vector::__make_ref@3b830
+       1   0.1%  99.7%        1   0.1% std::__1::vector::data
+       1   0.1%  99.8%        1   0.1% std::__1::vector::operator[]@29910
+       1   0.1%  99.9%        1   0.1% std::__1::vector::operator[]@36640
+       1   0.1% 100.0%        1   0.1% std::__1::vector::size
+       0   0.0% 100.0%        2   0.2% 00007ff815e145a3
+       0   0.0% 100.0%        2   0.2% 00007ff815e14676
+       0   0.0% 100.0%        2   0.2% 00007ff815e152c9
+       0   0.0% 100.0%        1   0.1% 00007ff815e157fc
+       0   0.0% 100.0%        1   0.1% 00007ff815e15884
+       0   0.0% 100.0%        1   0.1% 00007ff815e15e3b
+       0   0.0% 100.0%        1   0.1% 00007ff815e18148
+       0   0.0% 100.0%        2   0.2% 00007ff815e1eeff
+       0   0.0% 100.0%        1   0.1% 00007ff815e1f6a2
+       0   0.0% 100.0%        4   0.4% 00007ff815e30aba
+       0   0.0% 100.0%        2   0.2% 00007ff815ed3fbc
+       0   0.0% 100.0%        2   0.2% 00007ff815f011d0
+       0   0.0% 100.0%        1   0.1% 00007ff815f6652d
+       0   0.0% 100.0%        1   0.1% 00007ff815f76d0a
+       0   0.0% 100.0%        3   0.3% 00007ff815fb6959
+       0   0.0% 100.0%        1   0.1% 0x00000000080d0bff
+       0   0.0% 100.0%        3   0.3% 0x000000001685dec7
+       0   0.0% 100.0%        1   0.1% 0x00000000433fffff
+       0   0.0% 100.0%        1   0.1% 0x00000000460137ff
+       0   0.0% 100.0%        1   0.1% 0x000000004683dfff
+       0   0.0% 100.0%        6   0.6% 0x00000000ff6fffff
+       0   0.0% 100.0%        2   0.2% 0x00000000ff73ff83
+       0   0.0% 100.0%        3   0.3% 0x00000001012958dc
+       0   0.0% 100.0%        3   0.3% 0x0000000101f7005f
+       0   0.0% 100.0%        5   0.5% 0x000000010207897f
+       0   0.0% 100.0%        3   0.3% 0x00000001020b9fff
+       0   0.0% 100.0%      960 100.0% 0x00000001070d252d
+       0   0.0% 100.0%       19   2.0% 0x000000010713900f
+       0   0.0% 100.0%       13   1.4% 0x000000010714d39f
+       0   0.0% 100.0%        1   0.1% 0x0000000110e1bfff
+       0   0.0% 100.0%        1   0.1% 0x00000001a39bafff
+       0   0.0% 100.0%        1   0.1% 0x0000000400000000
+       0   0.0% 100.0%        1   0.1% 0x000000070d00000c
+       0   0.0% 100.0%        1   0.1% 0x0000000d00000cff
+       0   0.0% 100.0%        1   0.1% 0x0000001b000001f4
+       0   0.0% 100.0%        2   0.2% 0x00000d0700000cff
+       0   0.0% 100.0%        2   0.2% 0x0000600000e87fff
+       0   0.0% 100.0%        1   0.1% 0x0000600000e8c07f
+       0   0.0% 100.0%        1   0.1% 0x0000600000e8ffff
+       0   0.0% 100.0%        1   0.1% 0x0000600001898027
+       0   0.0% 100.0%       14   1.5% 0x000060000189802f
+       0   0.0% 100.0%        1   0.1% 0x00007fe8a1b6dfff
+       0   0.0% 100.0%        6   0.6% 0x00007fe8a1c99fff
+       0   0.0% 100.0%        1   0.1% 0x00007fe8a1dc6053
+       0   0.0% 100.0%        1   0.1% 0x00007fe8a1fe6fff
+       0   0.0% 100.0%        1   0.1% 0x00007fe8a311dd17
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be0051af
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be005207
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be005327
+       0   0.0% 100.0%        2   0.2% 0x00007ff7be005343
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be00577f
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be005d3f
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be005e5f
+       0   0.0% 100.0%        2   0.2% 0x00007ff7be005f2f
+       0   0.0% 100.0%        2   0.2% 0x00007ff7be0060cf
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be0060d7
+       0   0.0% 100.0%        2   0.2% 0x00007ff7be0060e7
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be006107
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be00615f
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be006197
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be0061ef
+       0   0.0% 100.0%       25   2.6% 0x00007ff7be006247
+       0   0.0% 100.0%       19   2.0% 0x00007ff7be00624f
+       0   0.0% 100.0%        3   0.3% 0x00007ff7be006268
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be006287
+       0   0.0% 100.0%       10   1.0% 0x00007ff7be006297
+       0   0.0% 100.0%       13   1.4% 0x00007ff7be00629f
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be0062af
+       0   0.0% 100.0%        4   0.4% 0x00007ff7be0062b8
+       0   0.0% 100.0%        6   0.6% 0x00007ff7be0062cf
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be0062d8
+       0   0.0% 100.0%        9   0.9% 0x00007ff7be00635f
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be0063af
+       0   0.0% 100.0%        8   0.8% 0x00007ff7be0063e7
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be006408
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be00646f
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be00647f
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be006487
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be00649f
+       0   0.0% 100.0%        4   0.4% 0x00007ff7be0064d7
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be0064e7
+       0   0.0% 100.0%        2   0.2% 0x00007ff7be0064f7
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be006527
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be00652f
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be006557
+       0   0.0% 100.0%        5   0.5% 0x00007ff7be00655f
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be00656f
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be006587
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be00658f
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be00659f
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be0065bf
+       0   0.0% 100.0%        2   0.2% 0x00007ff7be0065df
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be0065f7
+       0   0.0% 100.0%       16   1.7% 0x00007ff7be006607
+       0   0.0% 100.0%       11   1.1% 0x00007ff7be00660f
+       0   0.0% 100.0%        4   0.4% 0x00007ff7be006617
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be006647
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be006657
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be00665f
+       0   0.0% 100.0%        3   0.3% 0x00007ff7be00666f
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be00667f
+       0   0.0% 100.0%        4   0.4% 0x00007ff7be006687
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be00668f
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be006697
+       0   0.0% 100.0%        3   0.3% 0x00007ff7be0066a7
+       0   0.0% 100.0%        2   0.2% 0x00007ff7be0066af
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be0066c7
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be0066d7
+       0   0.0% 100.0%        3   0.3% 0x00007ff7be0066e7
+       0   0.0% 100.0%        2   0.2% 0x00007ff7be00670f
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be00672f
+       0   0.0% 100.0%       16   1.7% 0x00007ff7be00677f
+       0   0.0% 100.0%        6   0.6% 0x00007ff7be006797
+       0   0.0% 100.0%        5   0.5% 0x00007ff7be0067a7
+       0   0.0% 100.0%        4   0.4% 0x00007ff7be0067af
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be0067c7
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be006817
+       0   0.0% 100.0%        2   0.2% 0x00007ff7be006827
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be006837
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be006847
+       0   0.0% 100.0%        2   0.2% 0x00007ff7be006867
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be00687f
+       0   0.0% 100.0%        3   0.3% 0x00007ff7be0068af
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be006947
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be00696f
+       0   0.0% 100.0%        2   0.2% 0x00007ff7be006987
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be0069d7
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be0069f7
+       0   0.0% 100.0%        2   0.2% 0x00007ff7be006a17
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be006a4f
+       0   0.0% 100.0%       20   2.1% 0x00007ff7be006a57
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be006a67
+       0   0.0% 100.0%       10   1.0% 0x00007ff7be006ba7
+       0   0.0% 100.0%        2   0.2% 0x00007ff7be006bcf
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be006cff
+       0   0.0% 100.0%        2   0.2% 0x00007ff7be006d17
+       0   0.0% 100.0%        1   0.1% 0x00007ff7be00707f
+       0   0.0% 100.0%       20   2.1% 0x00007ff7be0078f7
+       0   0.0% 100.0%       15   1.6% 0x00007ff81600ee12
+       0   0.0% 100.0%        2   0.2% 0x000091b1ffffffff
+       0   0.0% 100.0%        1   0.1% 0x0000ffff00001fa0
+       0   0.0% 100.0%        3   0.3% 0x0001ffffed351bee
+       0   0.0% 100.0%        1   0.1% 0x001fffffffffffff
+       0   0.0% 100.0%        1   0.1% 0x010000000000002a
+       0   0.0% 100.0%        1   0.1% 0x010000000004cbfd
+       0   0.0% 100.0%        1   0.1% 0x01007ff7be006107
+       0   0.0% 100.0%        1   0.1% 0x01007ff81600ee12
+       0   0.0% 100.0%        1   0.1% 0x0179136a3265f168
+       0   0.0% 100.0%       14   1.5% 0x02010200020101ff
+       0   0.0% 100.0%        1   0.1% 0x0a0b060d080703ff
+       0   0.0% 100.0%        1   0.1% 0x0b0000000d0bffff
+       0   0.0% 100.0%        1   0.1% 0x0b000007000a0cff
+       0   0.0% 100.0%        1   0.1% 0x0b0d000d000affff
+       0   0.0% 100.0%        1   0.1% 0x0c000d0008000cff
+       0   0.0% 100.0%        1   0.1% 0x0c010607080a0410
+       0   0.0% 100.0%        1   0.1% 0x0c030606080a0410
+       0   0.0% 100.0%        1   0.1% 0x0c0d0d0cffffffff
+       0   0.0% 100.0%        1   0.1% 0x3ca70672b9fa8a07
+       0   0.0% 100.0%        1   0.1% 0x3fbe8581fb0c027f
+       0   0.0% 100.0%        1   0.1% 0x3fd290b307556a7f
+       0   0.0% 100.0%        1   0.1% 0x3feb38880b4603e3
+       0   0.0% 100.0%        1   0.1% 0x3fefd07ab94c3ca2
+       0   0.0% 100.0%        2   0.2% 0x3fefffffffffffff
+       0   0.0% 100.0%        1   0.1% 0x40237b81ffffffff
+       0   0.0% 100.0%        1   0.1% 0x403360ad118567cd
+       0   0.0% 100.0%        2   0.2% 0x405868d99b4492ec
+       0   0.0% 100.0%        1   0.1% 0x405a799e1330b357
+       0   0.0% 100.0%        1   0.1% 0x4074cbab078c2c84
+       0   0.0% 100.0%        1   0.1% 0x407720a50246c30d
+       0   0.0% 100.0%        1   0.1% 0x407720a57502ea39
+       0   0.0% 100.0%        1   0.1% 0x40e51fffffffffff
+       0   0.0% 100.0%        1   0.1% 0x418fffffffffffff
+       0   0.0% 100.0%        1   0.1% 0x44bf31a244bacc72
+       0   0.0% 100.0%        1   0.1% 0x4539970e45381658
+       0   0.0% 100.0%        1   0.1% 0x456d8e37456bc644
+       0   0.0% 100.0%        1   0.1% 0x5082872abe00635f
+       0   0.0% 100.0%        1   0.1% 0x50a2b3a2be00635f
+       0   0.0% 100.0%        1   0.1% 0x50b6ab08be00635f
+       0   0.0% 100.0%        1   0.1% 0x5128200abe00635f
+       0   0.0% 100.0%        1   0.1% 0x513bbb00be00635f
+       0   0.0% 100.0%        1   0.1% 0x51863e06be00635f
+       0   0.0% 100.0%        1   0.1% 0x5187238bbe00635f
+       0   0.0% 100.0%        1   0.1% 0x5188088bbe00635f
+       0   0.0% 100.0%        1   0.1% CpuProfiler::instance_
+       0   0.0% 100.0%        1   0.1% Eigen::ArrayBase::operator<
+       0   0.0% 100.0%        4   0.4% Eigen::ArrayBase::operator>
+       0   0.0% 100.0%        3   0.3% Eigen::ArrayWrapper::ArrayWrapper
+       0   0.0% 100.0%        2   0.2% Eigen::ArrayWrapper::rows
+       0   0.0% 100.0%       12   1.2% Eigen::Block::Block@214a0
+       0   0.0% 100.0%       19   2.0% Eigen::Block::Block@21aa0
+       0   0.0% 100.0%        4   0.4% Eigen::Block::Block@27640
+       0   0.0% 100.0%        6   0.6% Eigen::Block::Block@2ec70
+       0   0.0% 100.0%        5   0.5% Eigen::Block::Block@2f0f0
+       0   0.0% 100.0%        1   0.1% Eigen::Block::Block@3b8e0
+       0   0.0% 100.0%        1   0.1% Eigen::Block::Block@3b910
+       0   0.0% 100.0%       24   2.5% Eigen::Block::Block@9a50
+       0   0.0% 100.0%       71   7.4% Eigen::Block::operator=@29c90
+       0   0.0% 100.0%        3   0.3% Eigen::Block::operator=@34ec0
+       0   0.0% 100.0%        4   0.4% Eigen::Block::operator=@4c550
+       0   0.0% 100.0%       32   3.3% Eigen::Block::operator=@4c7d0
+       0   0.0% 100.0%       15   1.6% Eigen::BlockImpl::BlockImpl@21b70
+       0   0.0% 100.0%        3   0.3% Eigen::BlockImpl::BlockImpl@27720
+       0   0.0% 100.0%        3   0.3% Eigen::BlockImpl::BlockImpl@2edd0
+       0   0.0% 100.0%        3   0.3% Eigen::BlockImpl::BlockImpl@2f250
+       0   0.0% 100.0%        1   0.1% Eigen::BlockImpl::BlockImpl@3b9c0
+       0   0.0% 100.0%       71   7.4% Eigen::BlockImpl::operator=@2f4c0
+       0   0.0% 100.0%        3   0.3% Eigen::BlockImpl::operator=@3bc10
+       0   0.0% 100.0%        4   0.4% Eigen::BlockImpl::operator=@56410
+       0   0.0% 100.0%       32   3.3% Eigen::BlockImpl::operator=@579e0
+       0   0.0% 100.0%        1   0.1% Eigen::CwiseBinaryOp::CwiseBinaryOp@1e2b0
+       0   0.0% 100.0%        1   0.1% Eigen::CwiseBinaryOp::CwiseBinaryOp@1ff00
+       0   0.0% 100.0%        1   0.1% Eigen::CwiseBinaryOp::CwiseBinaryOp@1ff40
+       0   0.0% 100.0%        1   0.1% Eigen::CwiseBinaryOp::CwiseBinaryOp@20020
+       0   0.0% 100.0%        1   0.1% Eigen::CwiseBinaryOp::CwiseBinaryOp@20090
+       0   0.0% 100.0%        9   0.9% Eigen::CwiseBinaryOp::CwiseBinaryOp@218b0
+       0   0.0% 100.0%        1   0.1% Eigen::CwiseBinaryOp::CwiseBinaryOp@23060
+       0   0.0% 100.0%        1   0.1% Eigen::CwiseBinaryOp::CwiseBinaryOp@261e0
+       0   0.0% 100.0%        2   0.2% Eigen::CwiseBinaryOp::CwiseBinaryOp@27940
+       0   0.0% 100.0%        2   0.2% Eigen::CwiseBinaryOp::CwiseBinaryOp@27980
+       0   0.0% 100.0%        1   0.1% Eigen::CwiseBinaryOp::CwiseBinaryOp@27cb0
+       0   0.0% 100.0%        1   0.1% Eigen::CwiseNullaryOp::CwiseNullaryOp@1e150
+       0   0.0% 100.0%        1   0.1% Eigen::CwiseNullaryOp::CwiseNullaryOp@1e1d0
+       0   0.0% 100.0%        1   0.1% Eigen::CwiseNullaryOp::CwiseNullaryOp@1fc60
+       0   0.0% 100.0%        1   0.1% Eigen::CwiseNullaryOp::CwiseNullaryOp@1fce0
+       0   0.0% 100.0%        1   0.1% Eigen::CwiseNullaryOp::CwiseNullaryOp@cff0
+       0   0.0% 100.0%        1   0.1% Eigen::CwiseNullaryOp::cols
+       0   0.0% 100.0%        1   0.1% Eigen::CwiseUnaryOp::CwiseUnaryOp@27c30
+       0   0.0% 100.0%        1   0.1% Eigen::CwiseUnaryOp::CwiseUnaryOp@27c60
+       0   0.0% 100.0%        1   0.1% Eigen::CwiseUnaryOp::cols@27f70
+       0   0.0% 100.0%        4   0.4% Eigen::CwiseUnaryOp::rows
+       0   0.0% 100.0%        1   0.1% Eigen::DenseBase::Constant@25f00
+       0   0.0% 100.0%        1   0.1% Eigen::DenseBase::Constant@ceb0
+       0   0.0% 100.0%        1   0.1% Eigen::DenseBase::NullaryExpr@cf40
+       0   0.0% 100.0%        5   0.5% Eigen::DenseBase::block@29b90
+       0   0.0% 100.0%        6   0.6% Eigen::DenseBase::block@29c10
+       0   0.0% 100.0%       20   2.1% Eigen::DenseBase::col@21420
+       0   0.0% 100.0%       21   2.2% Eigen::DenseBase::col@b6d0
+       0   0.0% 100.0%        8   0.8% Eigen::DenseBase::innerSize@27050
+       0   0.0% 100.0%        5   0.5% Eigen::DenseBase::innerSize@3ef70
+       0   0.0% 100.0%        5   0.5% Eigen::DenseBase::innerSize@545c0
+       0   0.0% 100.0%        2   0.2% Eigen::DenseBase::isZero
+       0   0.0% 100.0%        1   0.1% Eigen::DenseBase::maxCoeff@1000039c0
+       0   0.0% 100.0%        1   0.1% Eigen::DenseBase::maxCoeff@100004610
+       0   0.0% 100.0%        1   0.1% Eigen::DenseBase::outerSize@2e010
+       0   0.0% 100.0%        1   0.1% Eigen::DenseBase::redux@100004660
+       0   0.0% 100.0%       17   1.8% Eigen::DenseBase::redux@23150
+       0   0.0% 100.0%        1   0.1% Eigen::DenseBase::redux@245f0
+       0   0.0% 100.0%       28   2.9% Eigen::DenseBase::redux@26610
+       0   0.0% 100.0%       11   1.1% Eigen::DenseBase::redux@27d40
+       0   0.0% 100.0%        8   0.8% Eigen::DenseBase::redux@8d80
+       0   0.0% 100.0%       12   1.2% Eigen::DenseBase::row@21330
+       0   0.0% 100.0%        4   0.4% Eigen::DenseBase::row@25b50
+       0   0.0% 100.0%        1   0.1% Eigen::DenseBase::row@34e80
+       0   0.0% 100.0%        8   0.8% Eigen::DenseBase::setConstant
+       0   0.0% 100.0%        3   0.3% Eigen::DenseBase::subVector
+       0   0.0% 100.0%       47   4.9% Eigen::DenseBase::sum@21460
+       0   0.0% 100.0%       17   1.8% Eigen::DenseBase::sum@22fe0
+       0   0.0% 100.0%       32   3.3% Eigen::DenseBase::sum@26440
+       0   0.0% 100.0%       13   1.4% Eigen::DenseBase::sum@27bc0
+       0   0.0% 100.0%        1   0.1% Eigen::DenseBase::sum@7a50
+       0   0.0% 100.0%        5   0.5% Eigen::DenseBase::transpose
+       0   0.0% 100.0%       11   1.1% Eigen::DenseCoeffsBase::coeff@27530
+       0   0.0% 100.0%        5   0.5% Eigen::DenseCoeffsBase::coeff@43020
+       0   0.0% 100.0%        2   0.2% Eigen::DenseCoeffsBase::coeffRef@22ee0
+       0   0.0% 100.0%        1   0.1% Eigen::DenseCoeffsBase::colStride
+       0   0.0% 100.0%        7   0.7% Eigen::DenseCoeffsBase::operator[]@36570
+       0   0.0% 100.0%        3   0.3% Eigen::DenseCoeffsBase::operator[]@77e0
+       0   0.0% 100.0%        3   0.3% Eigen::DenseStorage::resize@100008e60
+       0   0.0% 100.0%        1   0.1% Eigen::DenseStorage::resize@2d350
+       0   0.0% 100.0%        1   0.1% Eigen::DenseStorage::~DenseStorage@29d80
+       0   0.0% 100.0%        1   0.1% Eigen::DenseStorage::~DenseStorage@29da0
+       0   0.0% 100.0%        1   0.1% Eigen::DenseStorage::~DenseStorage@367a0
+       0   0.0% 100.0%        1   0.1% Eigen::DenseStorage::~DenseStorage@367c0
+       0   0.0% 100.0%        1   0.1% Eigen::DenseStorage::~DenseStorage@531d0
+       0   0.0% 100.0%        4   0.4% Eigen::DenseStorage::~DenseStorage@531f0
+       0   0.0% 100.0%        1   0.1% Eigen::EigenBase::cols@100009450
+       0   0.0% 100.0%        1   0.1% Eigen::EigenBase::cols@31ad0
+       0   0.0% 100.0%        1   0.1% Eigen::EigenBase::cols@430d0
+       0   0.0% 100.0%        1   0.1% Eigen::EigenBase::rows@21f20
+       0   0.0% 100.0%        1   0.1% Eigen::EigenBase::rows@b2e0
+       0   0.0% 100.0%        2   0.2% Eigen::EigenBase::size@42fe0
+       0   0.0% 100.0%        1   0.1% Eigen::Map::Map@24340
+       0   0.0% 100.0%        1   0.1% Eigen::Map::Map@293e0
+       0   0.0% 100.0%        1   0.1% Eigen::Map::Map@2d490
+       0   0.0% 100.0%        3   0.3% Eigen::MapBase::MapBase@21cb0
+       0   0.0% 100.0%        1   0.1% Eigen::MapBase::MapBase@243c0
+       0   0.0% 100.0%        1   0.1% Eigen::MapBase::MapBase@24430
+       0   0.0% 100.0%        1   0.1% Eigen::MapBase::MapBase@2ef20
+       0   0.0% 100.0%        1   0.1% Eigen::MapBase::MapBase@2f000
+       0   0.0% 100.0%        1   0.1% Eigen::MapBase::MapBase@2f380
+       0   0.0% 100.0%        1   0.1% Eigen::MapBase::MapBase@3baa0
+       0   0.0% 100.0%       10   1.0% Eigen::MapBase::MapBase@3e9d0
+       0   0.0% 100.0%        1   0.1% Eigen::MapBase::coeff
+       0   0.0% 100.0%        1   0.1% Eigen::MapBase::cols@43130
+       0   0.0% 100.0%        1   0.1% Eigen::MapBase::rows@2f7f0
+       0   0.0% 100.0%        4   0.4% Eigen::Matrix::Matrix@100013c60
+       0   0.0% 100.0%        4   0.4% Eigen::Matrix::Matrix@100013c90
+       0   0.0% 100.0%        4   0.4% Eigen::Matrix::Matrix@100015d80
+       0   0.0% 100.0%        4   0.4% Eigen::Matrix::Matrix@100016cc0
+       0   0.0% 100.0%      129  13.4% Eigen::Matrix::Matrix@200f0
+       0   0.0% 100.0%       55   5.7% Eigen::Matrix::Matrix@29420
+       0   0.0% 100.0%       55   5.7% Eigen::Matrix::Matrix@2d610
+       0   0.0% 100.0%        5   0.5% Eigen::Matrix::Matrix@30980
+       0   0.0% 100.0%        5   0.5% Eigen::Matrix::Matrix@31d10
+       0   0.0% 100.0%       21   2.2% Eigen::Matrix::Matrix@339b0
+       0   0.0% 100.0%       19   2.0% Eigen::Matrix::Matrix@366b0
+       0   0.0% 100.0%       22   2.3% Eigen::Matrix::Matrix@395a0
+       0   0.0% 100.0%       19   2.0% Eigen::Matrix::Matrix@43590
+       0   0.0% 100.0%       24   2.5% Eigen::Matrix::Matrix@4c2a0
+       0   0.0% 100.0%       27   2.8% Eigen::Matrix::Matrix@4c320
+       0   0.0% 100.0%        1   0.1% Eigen::Matrix::Matrix@4c350
+       0   0.0% 100.0%       28   2.9% Eigen::Matrix::Matrix@4c810
+       0   0.0% 100.0%       24   2.5% Eigen::Matrix::Matrix@53870
+       0   0.0% 100.0%       27   2.8% Eigen::Matrix::Matrix@54ca0
+       0   0.0% 100.0%        1   0.1% Eigen::Matrix::Matrix@55620
+       0   0.0% 100.0%       28   2.9% Eigen::Matrix::Matrix@58db0
+       0   0.0% 100.0%        2   0.2% Eigen::Matrix::Matrix@6ad0
+       0   0.0% 100.0%       24   2.5% Eigen::Matrix::Matrix@6cc0
+       0   0.0% 100.0%       81   8.4% Eigen::Matrix::Matrix@6d70
+       0   0.0% 100.0%       11   1.1% Eigen::Matrix::Matrix@6e60
+       0   0.0% 100.0%      130  13.5% Eigen::Matrix::Matrix@76d0
+       0   0.0% 100.0%        1   0.1% Eigen::Matrix::Matrix@77b0
+       0   0.0% 100.0%        8   0.8% Eigen::Matrix::Matrix@7980
+       0   0.0% 100.0%       24   2.5% Eigen::Matrix::Matrix@7f70
+       0   0.0% 100.0%       81   8.4% Eigen::Matrix::Matrix@9ec0
+       0   0.0% 100.0%        7   0.7% Eigen::Matrix::operator=@25cf0
+       0   0.0% 100.0%        5   0.5% Eigen::Matrix::operator=@7450
+       0   0.0% 100.0%        7   0.7% Eigen::Matrix::operator=@79b0
+       0   0.0% 100.0%        7   0.7% Eigen::Matrix::operator=@cf10
+       0   0.0% 100.0%        7   0.7% Eigen::Matrix::outerStride@2eef0
+       0   0.0% 100.0%        5   0.5% Eigen::Matrix::outerStride@3ef40
+       0   0.0% 100.0%        1   0.1% Eigen::Matrix::~Matrix@294b0
+       0   0.0% 100.0%        1   0.1% Eigen::Matrix::~Matrix@29d40
+       0   0.0% 100.0%        1   0.1% Eigen::Matrix::~Matrix@33090
+       0   0.0% 100.0%        1   0.1% Eigen::Matrix::~Matrix@36760
+       0   0.0% 100.0%        1   0.1% Eigen::Matrix::~Matrix@4c840
+       0   0.0% 100.0%        1   0.1% Eigen::Matrix::~Matrix@53190
+       0   0.0% 100.0%        3   0.3% Eigen::MatrixBase::array
+       0   0.0% 100.0%        1   0.1% Eigen::MatrixBase::cwiseAbs2
+       0   0.0% 100.0%       23   2.4% Eigen::MatrixBase::dot
+       0   0.0% 100.0%       14   1.5% Eigen::MatrixBase::norm
+       0   0.0% 100.0%        1   0.1% Eigen::MatrixBase::operator*@6d20
+       0   0.0% 100.0%        1   0.1% Eigen::MatrixBase::operator*@7590
+       0   0.0% 100.0%        6   0.6% Eigen::MatrixBase::operator+=@7390
+       0   0.0% 100.0%        5   0.5% Eigen::MatrixBase::operator+=@73f0
+       0   0.0% 100.0%        2   0.2% Eigen::MatrixBase::operator-@25b90
+       0   0.0% 100.0%        1   0.1% Eigen::MatrixBase::operator-@7520
+       0   0.0% 100.0%        1   0.1% Eigen::MatrixBase::operator/@7610
+       0   0.0% 100.0%       70   7.3% Eigen::MatrixBase::operator=@2f550
+       0   0.0% 100.0%        3   0.3% Eigen::MatrixBase::operator=@3bc90
+       0   0.0% 100.0%        4   0.4% Eigen::MatrixBase::operator=@564a0
+       0   0.0% 100.0%       32   3.3% Eigen::MatrixBase::operator=@57a70
+       0   0.0% 100.0%       14   1.5% Eigen::MatrixBase::squaredNorm
+       0   0.0% 100.0%        1   0.1% Eigen::PartialReduxExpr::PartialReduxExpr@8270
+       0   0.0% 100.0%        4   0.4% Eigen::PlainObjectBase::PlainObjectBase@100015dc0
+       0   0.0% 100.0%        4   0.4% Eigen::PlainObjectBase::PlainObjectBase@100016d00
+       0   0.0% 100.0%      128  13.3% Eigen::PlainObjectBase::PlainObjectBase@20140
+       0   0.0% 100.0%        7   0.7% Eigen::PlainObjectBase::PlainObjectBase@23960
+       0   0.0% 100.0%       55   5.7% Eigen::PlainObjectBase::PlainObjectBase@2d660
+       0   0.0% 100.0%        5   0.5% Eigen::PlainObjectBase::PlainObjectBase@31d50
+       0   0.0% 100.0%       21   2.2% Eigen::PlainObjectBase::PlainObjectBase@395e0
+       0   0.0% 100.0%       19   2.0% Eigen::PlainObjectBase::PlainObjectBase@435e0
+       0   0.0% 100.0%       24   2.5% Eigen::PlainObjectBase::PlainObjectBase@538c0
+       0   0.0% 100.0%       27   2.8% Eigen::PlainObjectBase::PlainObjectBase@54cf0
+       0   0.0% 100.0%       28   2.9% Eigen::PlainObjectBase::PlainObjectBase@58df0
+       0   0.0% 100.0%        1   0.1% Eigen::PlainObjectBase::PlainObjectBase@7c80
+       0   0.0% 100.0%       81   8.4% Eigen::PlainObjectBase::_init1@9f00
+       0   0.0% 100.0%        1   0.1% Eigen::PlainObjectBase::_init2
+       0   0.0% 100.0%        5   0.5% Eigen::PlainObjectBase::_set@1fa60
+       0   0.0% 100.0%        4   0.4% Eigen::PlainObjectBase::_set_noalias@100015f70
+       0   0.0% 100.0%        4   0.4% Eigen::PlainObjectBase::_set_noalias@100016e80
+       0   0.0% 100.0%       10   1.0% Eigen::PlainObjectBase::_set_noalias@1e4b0
+       0   0.0% 100.0%      125  13.0% Eigen::PlainObjectBase::_set_noalias@20230
+       0   0.0% 100.0%        6   0.6% Eigen::PlainObjectBase::_set_noalias@23aa0
+       0   0.0% 100.0%       52   5.4% Eigen::PlainObjectBase::_set_noalias@2d7f0
+       0   0.0% 100.0%        5   0.5% Eigen::PlainObjectBase::_set_noalias@31e90
+       0   0.0% 100.0%       21   2.2% Eigen::PlainObjectBase::_set_noalias@39760
+       0   0.0% 100.0%       19   2.0% Eigen::PlainObjectBase::_set_noalias@437b0
+       0   0.0% 100.0%       24   2.5% Eigen::PlainObjectBase::_set_noalias@53aa0
+       0   0.0% 100.0%       27   2.8% Eigen::PlainObjectBase::_set_noalias@54ec0
+       0   0.0% 100.0%       28   2.9% Eigen::PlainObjectBase::_set_noalias@58f70
+       0   0.0% 100.0%       22   2.3% Eigen::PlainObjectBase::_set_noalias@7fe0
+       0   0.0% 100.0%       81   8.4% Eigen::PlainObjectBase::_set_noalias@9f30
+       0   0.0% 100.0%        7   0.7% Eigen::PlainObjectBase::operator=@25d50
+       0   0.0% 100.0%        1   0.1% Eigen::PlainObjectBase::resize@2d220
+       0   0.0% 100.0%        4   0.4% Eigen::PlainObjectBase::resizeLike@2d6f0
+       0   0.0% 100.0%        1   0.1% Eigen::PlainObjectBase::rows@54370
+       0   0.0% 100.0%        1   0.1% Eigen::PlainObjectBase::rows@86c0
+       0   0.0% 100.0%        1   0.1% Eigen::PlainObjectBase::~PlainObjectBase@29d60
+       0   0.0% 100.0%        1   0.1% Eigen::PlainObjectBase::~PlainObjectBase@36780
+       0   0.0% 100.0%        1   0.1% Eigen::PlainObjectBase::~PlainObjectBase@531b0
+       0   0.0% 100.0%        1   0.1% Eigen::Product::Product@1fb30
+       0   0.0% 100.0%        1   0.1% Eigen::Product::Product@1fb60
+       0   0.0% 100.0%        2   0.2% Eigen::Product::Product@20bc0
+       0   0.0% 100.0%        1   0.1% Eigen::Product::Product@9dc0
+       0   0.0% 100.0%        1   0.1% Eigen::Stride::Stride@243f0
+       0   0.0% 100.0%        1   0.1% Eigen::Stride::Stride@24530
+       0   0.0% 100.0%        2   0.2% Eigen::TransposeImpl::data
+       0   0.0% 100.0%        1   0.1% Eigen::TransposeImpl::outerStride@b980
+       0   0.0% 100.0%        4   0.4% Eigen::internal::Assignment::run@100016210
+       0   0.0% 100.0%        4   0.4% Eigen::internal::Assignment::run@100016f20
+       0   0.0% 100.0%        6   0.6% Eigen::internal::Assignment::run@1efe0
+       0   0.0% 100.0%        5   0.5% Eigen::internal::Assignment::run@1f440
+       0   0.0% 100.0%       49   5.1% Eigen::internal::Assignment::run@2dad0
+       0   0.0% 100.0%       69   7.2% Eigen::internal::Assignment::run@2f670
+       0   0.0% 100.0%       21   2.2% Eigen::internal::Assignment::run@39800
+       0   0.0% 100.0%        3   0.3% Eigen::internal::Assignment::run@3bdb0
+       0   0.0% 100.0%       19   2.0% Eigen::internal::Assignment::run@438c0
+       0   0.0% 100.0%       24   2.5% Eigen::internal::Assignment::run@53dd0
+       0   0.0% 100.0%       27   2.8% Eigen::internal::Assignment::run@54fa0
+       0   0.0% 100.0%        4   0.4% Eigen::internal::Assignment::run@565c0
+       0   0.0% 100.0%       32   3.3% Eigen::internal::Assignment::run@57b80
+       0   0.0% 100.0%       28   2.9% Eigen::internal::Assignment::run@59010
+       0   0.0% 100.0%       22   2.3% Eigen::internal::Assignment::run@80d0
+       0   0.0% 100.0%        5   0.5% Eigen::internal::Assignment::run@d2a0
+       0   0.0% 100.0%        7   0.7% Eigen::internal::BlockImpl_dense::BlockImpl_dense@215b0
+       0   0.0% 100.0%        2   0.2% Eigen::internal::BlockImpl_dense::BlockImpl_dense@27750
+       0   0.0% 100.0%        1   0.1% Eigen::internal::BlockImpl_dense::BlockImpl_dense@3b9f0
+       0   0.0% 100.0%        4   0.4% Eigen::internal::BlockImpl_dense::init@21da0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::BlockImpl_dense::init@2ef60
+       0   0.0% 100.0%        1   0.1% Eigen::internal::BlockImpl_dense::init@2f460
+       0   0.0% 100.0%        3   0.3% Eigen::internal::BlockImpl_dense::init@9d00
+       0   0.0% 100.0%        4   0.4% Eigen::internal::BlockImpl_dense::innerStride@28580
+       0   0.0% 100.0%        3   0.3% Eigen::internal::BlockImpl_dense::innerStride@3ef00
+       0   0.0% 100.0%        2   0.2% Eigen::internal::BlockImpl_dense::innerStride@43390
+       0   0.0% 100.0%       70   7.3% Eigen::internal::BlockImpl_dense::operator=@2f510
+       0   0.0% 100.0%        3   0.3% Eigen::internal::BlockImpl_dense::operator=@3bc50
+       0   0.0% 100.0%        4   0.4% Eigen::internal::BlockImpl_dense::operator=@56460
+       0   0.0% 100.0%       32   3.3% Eigen::internal::BlockImpl_dense::operator=@57a30
+       0   0.0% 100.0%        5   0.5% Eigen::internal::BlockImpl_dense::outerStride@22870
+       0   0.0% 100.0%        4   0.4% Eigen::internal::BlockImpl_dense::outerStride@2ffb0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::abs2_impl::run
+       0   0.0% 100.0%        3   0.3% Eigen::internal::aligned_delete
+       0   0.0% 100.0%        2   0.2% Eigen::internal::aligned_free
+       0   0.0% 100.0%        2   0.2% Eigen::internal::aligned_malloc
+       0   0.0% 100.0%        3   0.3% Eigen::internal::aligned_stack_memory_handler::aligned_stack_memory_handler@fa50
+       0   0.0% 100.0%        1   0.1% Eigen::internal::aligned_stack_memory_handler::~aligned_stack_memory_handler
+       0   0.0% 100.0%        3   0.3% Eigen::internal::binary_evaluator::Data::Data@1e890
+       0   0.0% 100.0%        3   0.3% Eigen::internal::binary_evaluator::Data::Data@1e8c0
+       0   0.0% 100.0%        8   0.8% Eigen::internal::binary_evaluator::Data::Data@206b0
+       0   0.0% 100.0%        7   0.7% Eigen::internal::binary_evaluator::Data::Data@206e0
+       0   0.0% 100.0%        4   0.4% Eigen::internal::binary_evaluator::Data::Data@20910
+       0   0.0% 100.0%        4   0.4% Eigen::internal::binary_evaluator::Data::Data@20940
+       0   0.0% 100.0%       21   2.2% Eigen::internal::binary_evaluator::Data::Data@22170
+       0   0.0% 100.0%        1   0.1% Eigen::internal::binary_evaluator::Data::Data@234a0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::binary_evaluator::Data::Data@26cb0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::binary_evaluator::Data::Data@26ce0
+       0   0.0% 100.0%        5   0.5% Eigen::internal::binary_evaluator::Data::Data@28230
+       0   0.0% 100.0%        5   0.5% Eigen::internal::binary_evaluator::Data::Data@28260
+       0   0.0% 100.0%        8   0.8% Eigen::internal::binary_evaluator::Data::~Data@22bb0
+       0   0.0% 100.0%        2   0.2% Eigen::internal::binary_evaluator::Data::~Data@22c80
+       0   0.0% 100.0%        2   0.2% Eigen::internal::binary_evaluator::Data::~Data@22ca0
+       0   0.0% 100.0%        2   0.2% Eigen::internal::binary_evaluator::Data::~Data@22d60
+       0   0.0% 100.0%        2   0.2% Eigen::internal::binary_evaluator::Data::~Data@22d80
+       0   0.0% 100.0%        3   0.3% Eigen::internal::binary_evaluator::Data::~Data@23850
+       0   0.0% 100.0%        3   0.3% Eigen::internal::binary_evaluator::Data::~Data@23870
+       0   0.0% 100.0%        3   0.3% Eigen::internal::binary_evaluator::binary_evaluator@1e830
+       0   0.0% 100.0%        8   0.8% Eigen::internal::binary_evaluator::binary_evaluator@20650
+       0   0.0% 100.0%        4   0.4% Eigen::internal::binary_evaluator::binary_evaluator@208b0
+       0   0.0% 100.0%       21   2.2% Eigen::internal::binary_evaluator::binary_evaluator@22110
+       0   0.0% 100.0%        2   0.2% Eigen::internal::binary_evaluator::binary_evaluator@23440
+       0   0.0% 100.0%        1   0.1% Eigen::internal::binary_evaluator::binary_evaluator@26c50
+       0   0.0% 100.0%        5   0.5% Eigen::internal::binary_evaluator::binary_evaluator@281d0
+       0   0.0% 100.0%        3   0.3% Eigen::internal::binary_evaluator::coeff@1ed00
+       0   0.0% 100.0%        7   0.7% Eigen::internal::binary_evaluator::coeff@23700
+       0   0.0% 100.0%       21   2.2% Eigen::internal::binary_evaluator::coeff@58aa0
+       0   0.0% 100.0%        2   0.2% Eigen::internal::binary_evaluator::~binary_evaluator@22c50
+       0   0.0% 100.0%        2   0.2% Eigen::internal::binary_evaluator::~binary_evaluator@22d30
+       0   0.0% 100.0%        3   0.3% Eigen::internal::binary_evaluator::~binary_evaluator@23820
+       0   0.0% 100.0%        1   0.1% Eigen::internal::blas_traits::extract
+       0   0.0% 100.0%       10   1.0% Eigen::internal::block_evaluator::block_evaluator@22470
+       0   0.0% 100.0%        7   0.7% Eigen::internal::block_evaluator::block_evaluator@226b0
+       0   0.0% 100.0%        7   0.7% Eigen::internal::block_evaluator::block_evaluator@283f0
+       0   0.0% 100.0%        4   0.4% Eigen::internal::block_evaluator::block_evaluator@2fa70
+       0   0.0% 100.0%        5   0.5% Eigen::internal::block_evaluator::block_evaluator@2fdf0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::block_evaluator::block_evaluator@3c310
+       0   0.0% 100.0%        5   0.5% Eigen::internal::block_evaluator::block_evaluator@43200
+       0   0.0% 100.0%        9   0.9% Eigen::internal::block_evaluator::block_evaluator@93d0
+       0   0.0% 100.0%        6   0.6% Eigen::internal::call_assignment@1ef70
+       0   0.0% 100.0%        5   0.5% Eigen::internal::call_assignment@1f3d0
+       0   0.0% 100.0%        5   0.5% Eigen::internal::call_assignment@1fab0
+       0   0.0% 100.0%        5   0.5% Eigen::internal::call_assignment@1fb00
+       0   0.0% 100.0%       70   7.3% Eigen::internal::call_assignment@2f5a0
+       0   0.0% 100.0%       69   7.2% Eigen::internal::call_assignment@2f600
+       0   0.0% 100.0%        3   0.3% Eigen::internal::call_assignment@3bce0
+       0   0.0% 100.0%        3   0.3% Eigen::internal::call_assignment@3bd40
+       0   0.0% 100.0%        4   0.4% Eigen::internal::call_assignment@564f0
+       0   0.0% 100.0%        4   0.4% Eigen::internal::call_assignment@56550
+       0   0.0% 100.0%       32   3.3% Eigen::internal::call_assignment@57ac0
+       0   0.0% 100.0%       32   3.3% Eigen::internal::call_assignment@57b10
+       0   0.0% 100.0%        5   0.5% Eigen::internal::call_assignment@d1d0
+       0   0.0% 100.0%        5   0.5% Eigen::internal::call_assignment@d230
+       0   0.0% 100.0%        4   0.4% Eigen::internal::call_assignment_no_alias@1000161c0
+       0   0.0% 100.0%        4   0.4% Eigen::internal::call_assignment_no_alias@100016ee0
+       0   0.0% 100.0%       13   1.4% Eigen::internal::call_assignment_no_alias@1e510
+       0   0.0% 100.0%        6   0.6% Eigen::internal::call_assignment_no_alias@1efa0
+       0   0.0% 100.0%        5   0.5% Eigen::internal::call_assignment_no_alias@1f400
+       0   0.0% 100.0%      123  12.8% Eigen::internal::call_assignment_no_alias@202d0
+       0   0.0% 100.0%       50   5.2% Eigen::internal::call_assignment_no_alias@2da80
+       0   0.0% 100.0%       69   7.2% Eigen::internal::call_assignment_no_alias@2f630
+       0   0.0% 100.0%        5   0.5% Eigen::internal::call_assignment_no_alias@31ef0
+       0   0.0% 100.0%       21   2.2% Eigen::internal::call_assignment_no_alias@397c0
+       0   0.0% 100.0%        3   0.3% Eigen::internal::call_assignment_no_alias@3bd70
+       0   0.0% 100.0%       19   2.0% Eigen::internal::call_assignment_no_alias@43880
+       0   0.0% 100.0%       24   2.5% Eigen::internal::call_assignment_no_alias@53d80
+       0   0.0% 100.0%       27   2.8% Eigen::internal::call_assignment_no_alias@54f60
+       0   0.0% 100.0%        4   0.4% Eigen::internal::call_assignment_no_alias@56580
+       0   0.0% 100.0%       32   3.3% Eigen::internal::call_assignment_no_alias@57b40
+       0   0.0% 100.0%       28   2.9% Eigen::internal::call_assignment_no_alias@58fd0
+       0   0.0% 100.0%       22   2.3% Eigen::internal::call_assignment_no_alias@8040
+       0   0.0% 100.0%       81   8.4% Eigen::internal::call_assignment_no_alias@9f90
+       0   0.0% 100.0%        5   0.5% Eigen::internal::call_assignment_no_alias@d260
+       0   0.0% 100.0%        4   0.4% Eigen::internal::call_dense_assignment_loop@1000162a0
+       0   0.0% 100.0%        4   0.4% Eigen::internal::call_dense_assignment_loop@100016fb0
+       0   0.0% 100.0%        6   0.6% Eigen::internal::call_dense_assignment_loop@1f030
+       0   0.0% 100.0%        4   0.4% Eigen::internal::call_dense_assignment_loop@1f4d0
+       0   0.0% 100.0%      120  12.5% Eigen::internal::call_dense_assignment_loop@203a0
+       0   0.0% 100.0%       67   7.0% Eigen::internal::call_dense_assignment_loop@2f700
+       0   0.0% 100.0%       21   2.2% Eigen::internal::call_dense_assignment_loop@39890
+       0   0.0% 100.0%        3   0.3% Eigen::internal::call_dense_assignment_loop@3be00
+       0   0.0% 100.0%       19   2.0% Eigen::internal::call_dense_assignment_loop@43910
+       0   0.0% 100.0%       24   2.5% Eigen::internal::call_dense_assignment_loop@53e20
+       0   0.0% 100.0%       27   2.8% Eigen::internal::call_dense_assignment_loop@54ff0
+       0   0.0% 100.0%        4   0.4% Eigen::internal::call_dense_assignment_loop@56610
+       0   0.0% 100.0%       32   3.3% Eigen::internal::call_dense_assignment_loop@57bd0
+       0   0.0% 100.0%       28   2.9% Eigen::internal::call_dense_assignment_loop@590a0
+       0   0.0% 100.0%        3   0.3% Eigen::internal::call_dense_assignment_loop@d330
+       0   0.0% 100.0%        2   0.2% Eigen::internal::cast@57230
+       0   0.0% 100.0%        3   0.3% Eigen::internal::conditional_aligned_delete_auto@100003b40
+       0   0.0% 100.0%        1   0.1% Eigen::internal::conditional_aligned_delete_auto@100005930
+       0   0.0% 100.0%        2   0.2% Eigen::internal::conditional_aligned_malloc
+       0   0.0% 100.0%        5   0.5% Eigen::internal::copy_using_evaluator_DefaultTraversal_CompleteUnrolling::run@1eb40
+       0   0.0% 100.0%        2   0.2% Eigen::internal::copy_using_evaluator_DefaultTraversal_CompleteUnrolling::run@1ebd0
+       0   0.0% 100.0%        4   0.4% Eigen::internal::copy_using_evaluator_DefaultTraversal_CompleteUnrolling::run@1f200
+       0   0.0% 100.0%        1   0.1% Eigen::internal::copy_using_evaluator_DefaultTraversal_CompleteUnrolling::run@1f290
+       0   0.0% 100.0%        1   0.1% Eigen::internal::copy_using_evaluator_DefaultTraversal_CompleteUnrolling::run@1f390
+       0   0.0% 100.0%        1   0.1% Eigen::internal::copy_using_evaluator_DefaultTraversal_CompleteUnrolling::run@23f70
+       0   0.0% 100.0%      108  11.2% Eigen::internal::copy_using_evaluator_DefaultTraversal_InnerUnrolling::run@20f90
+       0   0.0% 100.0%       72   7.5% Eigen::internal::copy_using_evaluator_DefaultTraversal_InnerUnrolling::run@21030
+       0   0.0% 100.0%        8   0.8% Eigen::internal::copy_using_evaluator_DefaultTraversal_InnerUnrolling::run@39eb0
+       0   0.0% 100.0%        2   0.2% Eigen::internal::copy_using_evaluator_LinearTraversal_CompleteUnrolling::run@3c4e0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::copy_using_evaluator_LinearTraversal_CompleteUnrolling::run@3c570
+       0   0.0% 100.0%        1   0.1% Eigen::internal::copy_using_evaluator_LinearTraversal_CompleteUnrolling::run@3c620
+       0   0.0% 100.0%        2   0.2% Eigen::internal::copy_using_evaluator_innervec_CompleteUnrolling::run@1f6a0
+       0   0.0% 100.0%        4   0.4% Eigen::internal::dense_assignment_loop::run@1000165a0
+       0   0.0% 100.0%        4   0.4% Eigen::internal::dense_assignment_loop::run@100017190
+       0   0.0% 100.0%        4   0.4% Eigen::internal::dense_assignment_loop::run@1f1c0
+       0   0.0% 100.0%        2   0.2% Eigen::internal::dense_assignment_loop::run@1f670
+       0   0.0% 100.0%        1   0.1% Eigen::internal::dense_assignment_loop::run@23db0
+       0   0.0% 100.0%       21   2.2% Eigen::internal::dense_assignment_loop::run@39a90
+       0   0.0% 100.0%        2   0.2% Eigen::internal::dense_assignment_loop::run@3c000
+       0   0.0% 100.0%       18   1.9% Eigen::internal::dense_assignment_loop::run@43b40
+       0   0.0% 100.0%       23   2.4% Eigen::internal::dense_assignment_loop::run@54070
+       0   0.0% 100.0%       27   2.8% Eigen::internal::dense_assignment_loop::run@551f0
+       0   0.0% 100.0%        4   0.4% Eigen::internal::dense_assignment_loop::run@56840
+       0   0.0% 100.0%       14   1.5% Eigen::internal::dense_assignment_loop::run@8410
+       0   0.0% 100.0%       20   2.1% Eigen::internal::dot_nocheck::run
+       0   0.0% 100.0%        2   0.2% Eigen::internal::evaluateProductBlockingSizesHeuristic
+       0   0.0% 100.0%       12   1.2% Eigen::internal::evaluator::coeff@8bf0
+       0   0.0% 100.0%        3   0.3% Eigen::internal::evaluator::evaluator@1e6a0
+       0   0.0% 100.0%        3   0.3% Eigen::internal::evaluator::evaluator@1e800
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@1e9b0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@1ea00
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@1ea30
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@1ea60
+       0   0.0% 100.0%        8   0.8% Eigen::internal::evaluator::evaluator@204a0
+       0   0.0% 100.0%        8   0.8% Eigen::internal::evaluator::evaluator@20620
+       0   0.0% 100.0%        3   0.3% Eigen::internal::evaluator::evaluator@207d0
+       0   0.0% 100.0%        4   0.4% Eigen::internal::evaluator::evaluator@20820
+       0   0.0% 100.0%        4   0.4% Eigen::internal::evaluator::evaluator@20850
+       0   0.0% 100.0%        4   0.4% Eigen::internal::evaluator::evaluator@20880
+       0   0.0% 100.0%        3   0.3% Eigen::internal::evaluator::evaluator@20a20
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@20a70
+       0   0.0% 100.0%        3   0.3% Eigen::internal::evaluator::evaluator@20ac0
+       0   0.0% 100.0%        3   0.3% Eigen::internal::evaluator::evaluator@20af0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@20e10
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@20e40
+       0   0.0% 100.0%       21   2.2% Eigen::internal::evaluator::evaluator@220e0
+       0   0.0% 100.0%       12   1.2% Eigen::internal::evaluator::evaluator@22280
+       0   0.0% 100.0%        8   0.8% Eigen::internal::evaluator::evaluator@222d0
+       0   0.0% 100.0%       12   1.2% Eigen::internal::evaluator::evaluator@22300
+       0   0.0% 100.0%       12   1.2% Eigen::internal::evaluator::evaluator@22330
+       0   0.0% 100.0%       10   1.0% Eigen::internal::evaluator::evaluator@22440
+       0   0.0% 100.0%        7   0.7% Eigen::internal::evaluator::evaluator@22680
+       0   0.0% 100.0%        2   0.2% Eigen::internal::evaluator::evaluator@23410
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@26a60
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@26bc0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@26bf0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@26c20
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@26e20
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@26f10
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@26f40
+       0   0.0% 100.0%        5   0.5% Eigen::internal::evaluator::evaluator@27fe0
+       0   0.0% 100.0%        5   0.5% Eigen::internal::evaluator::evaluator@28140
+       0   0.0% 100.0%        5   0.5% Eigen::internal::evaluator::evaluator@28170
+       0   0.0% 100.0%        5   0.5% Eigen::internal::evaluator::evaluator@281a0
+       0   0.0% 100.0%        5   0.5% Eigen::internal::evaluator::evaluator@28340
+       0   0.0% 100.0%        7   0.7% Eigen::internal::evaluator::evaluator@283c0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@2de10
+       0   0.0% 100.0%        4   0.4% Eigen::internal::evaluator::evaluator@2f840
+       0   0.0% 100.0%        5   0.5% Eigen::internal::evaluator::evaluator@2f940
+       0   0.0% 100.0%        4   0.4% Eigen::internal::evaluator::evaluator@2fa40
+       0   0.0% 100.0%        5   0.5% Eigen::internal::evaluator::evaluator@2fdc0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@3bfc0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@3c200
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@3c2b0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@3c2e0
+       0   0.0% 100.0%       17   1.8% Eigen::internal::evaluator::evaluator@3ed40
+       0   0.0% 100.0%        5   0.5% Eigen::internal::evaluator::evaluator@43150
+       0   0.0% 100.0%        5   0.5% Eigen::internal::evaluator::evaluator@431d0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@82a0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@8390
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::evaluator@87e0
+       0   0.0% 100.0%        3   0.3% Eigen::internal::evaluator::evaluator@af90
+       0   0.0% 100.0%        2   0.2% Eigen::internal::evaluator::evaluator@afc0
+       0   0.0% 100.0%        5   0.5% Eigen::internal::evaluator::evaluator@b160
+       0   0.0% 100.0%        5   0.5% Eigen::internal::evaluator::evaluator@b190
+       0   0.0% 100.0%        6   0.6% Eigen::internal::evaluator::evaluator@c550
+       0   0.0% 100.0%        2   0.2% Eigen::internal::evaluator::~evaluator@20600
+       0   0.0% 100.0%        2   0.2% Eigen::internal::evaluator::~evaluator@20aa0
+       0   0.0% 100.0%        3   0.3% Eigen::internal::evaluator::~evaluator@20ed0
+       0   0.0% 100.0%        2   0.2% Eigen::internal::evaluator::~evaluator@20ef0
+       0   0.0% 100.0%       12   1.2% Eigen::internal::evaluator::~evaluator@22b40
+       0   0.0% 100.0%        2   0.2% Eigen::internal::evaluator::~evaluator@22c30
+       0   0.0% 100.0%        2   0.2% Eigen::internal::evaluator::~evaluator@22cd0
+       0   0.0% 100.0%        2   0.2% Eigen::internal::evaluator::~evaluator@22cf0
+       0   0.0% 100.0%        2   0.2% Eigen::internal::evaluator::~evaluator@22d10
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator::~evaluator@2fa20
+       0   0.0% 100.0%        2   0.2% Eigen::internal::evaluator_wrapper_base::coeff@27270
+       0   0.0% 100.0%        1   0.1% Eigen::internal::evaluator_wrapper_base::evaluator_wrapper_base
+       0   0.0% 100.0%        2   0.2% Eigen::internal::first_aligned
+       0   0.0% 100.0%        2   0.2% Eigen::internal::first_aligned_impl::run
+       0   0.0% 100.0%        2   0.2% Eigen::internal::first_default_aligned
+       0   0.0% 100.0%        4   0.4% Eigen::internal::gemm_blocking_space::gemm_blocking_space@d8b0
+       0   0.0% 100.0%        3   0.3% Eigen::internal::gemm_blocking_space::~gemm_blocking_space@1e080
+       0   0.0% 100.0%        3   0.3% Eigen::internal::gemm_blocking_space::~gemm_blocking_space@d9b0
+       0   0.0% 100.0%       51   5.3% Eigen::internal::gemm_functor::operator
+       0   0.0% 100.0%        5   0.5% Eigen::internal::gemv_dense_selector::run
+       0   0.0% 100.0%        5   0.5% Eigen::internal::generic_dense_assignment_kernel::assignCoeff@1ec30
+       0   0.0% 100.0%        4   0.4% Eigen::internal::generic_dense_assignment_kernel::assignCoeff@1f2f0
+       0   0.0% 100.0%      101  10.5% Eigen::internal::generic_dense_assignment_kernel::assignCoeff@210b0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::generic_dense_assignment_kernel::assignCoeff@24060
+       0   0.0% 100.0%        2   0.2% Eigen::internal::generic_dense_assignment_kernel::assignCoeff@3c510
+       0   0.0% 100.0%       16   1.7% Eigen::internal::generic_dense_assignment_kernel::assignCoeff@546d0
+       0   0.0% 100.0%        3   0.3% Eigen::internal::generic_dense_assignment_kernel::assignCoeff@57070
+       0   0.0% 100.0%       12   1.2% Eigen::internal::generic_dense_assignment_kernel::assignCoeff@8a70
+       0   0.0% 100.0%        5   0.5% Eigen::internal::generic_dense_assignment_kernel::assignCoeffByOuterInner@1eb70
+       0   0.0% 100.0%        4   0.4% Eigen::internal::generic_dense_assignment_kernel::assignCoeffByOuterInner@1f230
+       0   0.0% 100.0%        1   0.1% Eigen::internal::generic_dense_assignment_kernel::assignCoeffByOuterInner@23fa0
+       0   0.0% 100.0%       15   1.6% Eigen::internal::generic_dense_assignment_kernel::assignCoeffByOuterInner@39cb0
+       0   0.0% 100.0%        2   0.2% Eigen::internal::generic_dense_assignment_kernel::assignPacket@1f7d0
+       0   0.0% 100.0%        2   0.2% Eigen::internal::generic_dense_assignment_kernel::assignPacketByOuterInner
+       0   0.0% 100.0%        5   0.5% Eigen::internal::generic_dense_assignment_kernel::innerSize@54510
+       0   0.0% 100.0%        1   0.1% Eigen::internal::generic_dense_assignment_kernel::outerSize@2df50
+       0   0.0% 100.0%        1   0.1% Eigen::internal::generic_dense_assignment_kernel::size
+       0   0.0% 100.0%       64   6.7% Eigen::internal::generic_product_impl::scaleAndAddTo
+       0   0.0% 100.0%        4   0.4% Eigen::internal::mapbase_evaluator::mapbase_evaluator@2fb30
+       0   0.0% 100.0%        5   0.5% Eigen::internal::mapbase_evaluator::mapbase_evaluator@2feb0
+       0   0.0% 100.0%        6   0.6% Eigen::internal::mapbase_evaluator::mapbase_evaluator@9490
+       0   0.0% 100.0%        2   0.2% Eigen::internal::mapbase_evaluator::packet
+       0   0.0% 100.0%        1   0.1% Eigen::internal::mapbase_evaluator::rowStride@302c0
+       0   0.0% 100.0%        9   0.9% Eigen::internal::member_sum::operator
+       0   0.0% 100.0%       53   5.5% Eigen::internal::parallelize_gemm
+       0   0.0% 100.0%        1   0.1% Eigen::internal::pmax@100004fc0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::pminmax_impl::run
+       0   0.0% 100.0%        1   0.1% Eigen::internal::predux
+       0   0.0% 100.0%        3   0.3% Eigen::internal::product_evaluator::product_evaluator@20b20
+       0   0.0% 100.0%        1   0.1% Eigen::internal::product_evaluator::product_evaluator@20bf0
+       0   0.0% 100.0%        4   0.4% Eigen::internal::product_evaluator::~product_evaluator@20f10
+       0   0.0% 100.0%        2   0.2% Eigen::internal::product_evaluator::~product_evaluator@20f30
+       0   0.0% 100.0%        4   0.4% Eigen::internal::redux_evaluator::coeffByOuterInner@228c0
+       0   0.0% 100.0%        4   0.4% Eigen::internal::redux_evaluator::coeffByOuterInner@286b0
+       0   0.0% 100.0%       21   2.2% Eigen::internal::redux_evaluator::redux_evaluator@21f80
+       0   0.0% 100.0%       21   2.2% Eigen::internal::redux_evaluator::redux_evaluator@220b0
+       0   0.0% 100.0%        2   0.2% Eigen::internal::redux_evaluator::redux_evaluator@232b0
+       0   0.0% 100.0%        2   0.2% Eigen::internal::redux_evaluator::redux_evaluator@233e0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::redux_evaluator::redux_evaluator@24770
+       0   0.0% 100.0%        6   0.6% Eigen::internal::redux_evaluator::redux_evaluator@27eb0
+       0   0.0% 100.0%       12   1.2% Eigen::internal::redux_evaluator::~redux_evaluator@22050
+       0   0.0% 100.0%        8   0.8% Eigen::internal::redux_evaluator::~redux_evaluator@22b20
+       0   0.0% 100.0%        4   0.4% Eigen::internal::redux_evaluator::~redux_evaluator@23380
+       0   0.0% 100.0%        4   0.4% Eigen::internal::redux_evaluator::~redux_evaluator@237e0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::redux_impl::run@1000047f0
+       0   0.0% 100.0%       10   1.0% Eigen::internal::redux_impl::run@232e0
+       0   0.0% 100.0%        7   0.7% Eigen::internal::redux_impl::run@8fd0
+       0   0.0% 100.0%       10   1.0% Eigen::internal::redux_novec_unroller::run@235e0
+       0   0.0% 100.0%        7   0.7% Eigen::internal::redux_novec_unroller::run@23640
+       0   0.0% 100.0%        1   0.1% Eigen::internal::redux_novec_unroller::run@23670
+       0   0.0% 100.0%        4   0.4% Eigen::internal::redux_novec_unroller::run@285c0
+       0   0.0% 100.0%        4   0.4% Eigen::internal::redux_novec_unroller::run@28620
+       0   0.0% 100.0%        2   0.2% Eigen::internal::resize_if_allowed@2f870
+       0   0.0% 100.0%        1   0.1% Eigen::internal::resize_if_allowed@32070
+       0   0.0% 100.0%        1   0.1% Eigen::internal::scalar_abs2_op::operator
+       0   0.0% 100.0%        1   0.1% Eigen::internal::scalar_cast_op::operator@27110
+       0   0.0% 100.0%        2   0.2% Eigen::internal::scalar_cast_op::operator@571c0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::scalar_max_op::packetOp
+       0   0.0% 100.0%        1   0.1% Eigen::internal::unary_evaluator::Data::Data@26af0
+       0   0.0% 100.0%        1   0.1% Eigen::internal::unary_evaluator::Data::Data@26b20
+       0   0.0% 100.0%        5   0.5% Eigen::internal::unary_evaluator::Data::Data@28070
+       0   0.0% 100.0%        5   0.5% Eigen::internal::unary_evaluator::Data::Data@280a0
+       0   0.0% 100.0%        2   0.2% Eigen::internal::unary_evaluator::coeff@22970
+       0   0.0% 100.0%        2   0.2% Eigen::internal::unary_evaluator::coeffRef
+       0   0.0% 100.0%       12   1.2% Eigen::internal::unary_evaluator::unary_evaluator@22360
+       0   0.0% 100.0%        1   0.1% Eigen::internal::unary_evaluator::unary_evaluator@26a90
+       0   0.0% 100.0%        1   0.1% Eigen::internal::unary_evaluator::unary_evaluator@26f70
+       0   0.0% 100.0%        5   0.5% Eigen::internal::unary_evaluator::unary_evaluator@28010
+       0   0.0% 100.0%        1   0.1% Eigen::internal::unary_evaluator::unary_evaluator@3c230
+       0   0.0% 100.0%        1   0.1% Eigen::internal::unary_evaluator::unary_evaluator@8810
+       0   0.0% 100.0%        4   0.4% Eigen::internal::unary_evaluator::~unary_evaluator
+       0   0.0% 100.0%        1   0.1% Eigen::numext::abs2
+       0   0.0% 100.0%        2   0.2% GetStackTraceWithContext
+       0   0.0% 100.0%       15   1.6% ProfileHandler::SignalHandler
+       0   0.0% 100.0%      960 100.0% RUN_ALL_TESTS
+       0   0.0% 100.0%      960 100.0% ReadImage_count_image_Test::TestBody
+       0   0.0% 100.0%       96  10.0% __mh_execute_header
+       0   0.0% 100.0%        1   0.1% _dsyevc3
+       0   0.0% 100.0%        1   0.1% _dsyevh3
+       0   0.0% 100.0%      960 100.0% _main
+       0   0.0% 100.0%       10   1.0% _stbi_load_16
+       0   0.0% 100.0%       10   1.0% _stbi_load_from_file_16
+       0   0.0% 100.0%        5   0.5% _stbi_zlib_decode_malloc_guesssize_headerflag
+       0   0.0% 100.0%      565  58.9% deplex::CellGrid::CellGrid@28bb0
+       0   0.0% 100.0%      565  58.9% deplex::CellGrid::CellGrid@29630
+       0   0.0% 100.0%       17   1.8% deplex::CellGrid::getNeighbours
+       0   0.0% 100.0%      399  41.6% deplex::CellSegment::CellSegment@25430
+       0   0.0% 100.0%       19   2.0% deplex::CellSegment::calculateMergeTolerance
+       0   0.0% 100.0%        2   0.2% deplex::CellSegment::hasSmallPlaneError
+       0   0.0% 100.0%       42   4.4% deplex::CellSegment::hasValidPoints
+       0   0.0% 100.0%       37   3.9% deplex::CellSegment::isDepthContinuous
+       0   0.0% 100.0%       20   2.1% deplex::CellSegment::operator+=
+       0   0.0% 100.0%        2   0.2% deplex::CellSegmentStat::CellSegmentStat@6a50
+       0   0.0% 100.0%        2   0.2% deplex::CellSegmentStat::CellSegmentStat@6b10
+       0   0.0% 100.0%      290  30.2% deplex::CellSegmentStat::CellSegmentStat@72e0
+       0   0.0% 100.0%       17   1.8% deplex::NormalsHistogram::NormalsHistogram@30a40
+       0   0.0% 100.0%        7   0.7% deplex::PlaneExtractor::Impl::findMergedLabels
+       0   0.0% 100.0%        7   0.7% deplex::PlaneExtractor::Impl::getConnectedComponents
+       0   0.0% 100.0%       21   2.2% deplex::PlaneExtractor::Impl::initializeHistogram
+       0   0.0% 100.0%      822  85.6% deplex::PlaneExtractor::Impl::process
+       0   0.0% 100.0%      822  85.6% deplex::PlaneExtractor::process
+       0   0.0% 100.0%       10   1.0% deplex::utils::DepthImage::DepthImage@4b8b0
+       0   0.0% 100.0%       10   1.0% deplex::utils::DepthImage::DepthImage@4bb00
+       0   0.0% 100.0%      117  12.2% deplex::utils::DepthImage::toPointCloud
+       0   0.0% 100.0%        1   0.1% deplex::utils::DepthImage::~DepthImage@100003a80
+       0   0.0% 100.0%        1   0.1% deplex::utils::DepthImage::~DepthImage@100005950
+       0   0.0% 100.0%        2   0.2% stbi__compute_huffman_codes
+       0   0.0% 100.0%        4   0.4% stbi__create_png_image
+       0   0.0% 100.0%       10   1.0% stbi__do_png
+       0   0.0% 100.0%        5   0.5% stbi__do_zlib
+       0   0.0% 100.0%        1   0.1% stbi__getn
+       0   0.0% 100.0%       10   1.0% stbi__load_and_postprocess_16bit
+       0   0.0% 100.0%       10   1.0% stbi__load_main
+       0   0.0% 100.0%       10   1.0% stbi__parse_png_file
+       0   0.0% 100.0%        5   0.5% stbi__parse_zlib
+       0   0.0% 100.0%       10   1.0% stbi__png_load
+       0   0.0% 100.0%        1   0.1% std::__1::__bit_const_reference::__bit_const_reference@3b880
+       0   0.0% 100.0%        1   0.1% std::__1::__bit_reference::__bit_reference@2e280
+       0   0.0% 100.0%        1   0.1% std::__1::__compressed_pair::__compressed_pair@2e830
+       0   0.0% 100.0%        1   0.1% std::__1::__compressed_pair::__compressed_pair@2e8a0
+       0   0.0% 100.0%        1   0.1% std::__1::__construct_backward_with_exception_guarantees
+       0   0.0% 100.0%        4   0.4% std::__1::__do_deallocate_handle_size@2aaf0
+       0   0.0% 100.0%        1   0.1% std::__1::__do_deallocate_handle_size@31990
+       0   0.0% 100.0%        3   0.3% std::__1::__libcpp_allocate
+       0   0.0% 100.0%        4   0.4% std::__1::__libcpp_deallocate@2aac0
+       0   0.0% 100.0%        1   0.1% std::__1::__libcpp_deallocate@31960
+       0   0.0% 100.0%        4   0.4% std::__1::__libcpp_operator_delete@2ab10
+       0   0.0% 100.0%        1   0.1% std::__1::__libcpp_operator_delete@319b0
+       0   0.0% 100.0%        3   0.3% std::__1::__libcpp_operator_new
+       0   0.0% 100.0%        1   0.1% std::__1::__split_buffer::__destruct_at_end@32b60
+       0   0.0% 100.0%        1   0.1% std::__1::__split_buffer::__split_buffer@2c5d0
+       0   0.0% 100.0%        1   0.1% std::__1::__split_buffer::__split_buffer@2c6f0
+       0   0.0% 100.0%        4   0.4% std::__1::__split_buffer::__split_buffer@2e5d0
+       0   0.0% 100.0%        1   0.1% std::__1::__split_buffer::clear@2eb00
+       0   0.0% 100.0%        1   0.1% std::__1::__split_buffer::clear@32b10
+       0   0.0% 100.0%        3   0.3% std::__1::__split_buffer::~__split_buffer@2e6d0
+       0   0.0% 100.0%        3   0.3% std::__1::__split_buffer::~__split_buffer@2ea90
+       0   0.0% 100.0%        2   0.2% std::__1::__split_buffer::~__split_buffer@326e0
+       0   0.0% 100.0%        2   0.2% std::__1::__split_buffer::~__split_buffer@32aa0
+       0   0.0% 100.0%        2   0.2% std::__1::__vector_base::capacity
+       0   0.0% 100.0%        1   0.1% std::__1::__vector_base::clear
+       0   0.0% 100.0%        3   0.3% std::__1::__vector_base::~__vector_base
+       0   0.0% 100.0%        2   0.2% std::__1::allocator::allocate@2a5a0
+       0   0.0% 100.0%        1   0.1% std::__1::allocator::allocate@2c8f0
+       0   0.0% 100.0%        4   0.4% std::__1::allocator::deallocate@2aa80
+       0   0.0% 100.0%        1   0.1% std::__1::allocator::deallocate@31920
+       0   0.0% 100.0%        2   0.2% std::__1::allocator_traits::allocate@2a320
+       0   0.0% 100.0%        1   0.1% std::__1::allocator_traits::allocate@2c7d0
+       0   0.0% 100.0%        1   0.1% std::__1::allocator_traits::construct@2e490
+       0   0.0% 100.0%        1   0.1% std::__1::allocator_traits::construct@31770
+       0   0.0% 100.0%        2   0.2% std::__1::allocator_traits::construct@41ca0
+       0   0.0% 100.0%        4   0.4% std::__1::allocator_traits::deallocate@2a990
+       0   0.0% 100.0%        1   0.1% std::__1::allocator_traits::deallocate@31830
+       0   0.0% 100.0%        1   0.1% std::__1::default_delete::operator
+       0   0.0% 100.0%        3   0.3% std::__1::deque::push_back
+       0   0.0% 100.0%        1   0.1% std::__1::fill_n
+       0   0.0% 100.0%        1   0.1% std::__1::max_element@7780
+       0   0.0% 100.0%        4   0.4% std::__1::queue::push
+       0   0.0% 100.0%        1   0.1% std::__1::unique_ptr::reset
+       0   0.0% 100.0%        1   0.1% std::__1::unique_ptr::~unique_ptr@100005970
+       0   0.0% 100.0%        1   0.1% std::__1::unique_ptr::~unique_ptr@100005990
+       0   0.0% 100.0%        1   0.1% std::__1::vector::__annotate_delete
+       0   0.0% 100.0%        2   0.2% std::__1::vector::__annotate_new
+       0   0.0% 100.0%        1   0.1% std::__1::vector::__make_ref@2e230
+       0   0.0% 100.0%       15   1.6% std::__1::vector::__push_back_slow_path@2e3b0
+       0   0.0% 100.0%        4   0.4% std::__1::vector::__push_back_slow_path@32460
+       0   0.0% 100.0%        1   0.1% std::__1::vector::__push_back_slow_path@3ddb0
+       0   0.0% 100.0%        6   0.6% std::__1::vector::__swap_out_circular_buffer@2e610
+       0   0.0% 100.0%        1   0.1% std::__1::vector::__swap_out_circular_buffer@32620
+       0   0.0% 100.0%        1   0.1% std::__1::vector::__vallocate
+       0   0.0% 100.0%        2   0.2% std::__1::vector::capacity
+       0   0.0% 100.0%        1   0.1% std::__1::vector::operator[]@294f0
+       0   0.0% 100.0%        2   0.2% std::__1::vector::operator[]@34e10
+       0   0.0% 100.0%       17   1.8% std::__1::vector::push_back@29b00
+       0   0.0% 100.0%        5   0.5% std::__1::vector::push_back@30d30
+       0   0.0% 100.0%        1   0.1% std::__1::vector::push_back@35930
+       0   0.0% 100.0%        1   0.1% std::__1::vector::vector@35aa0
+       0   0.0% 100.0%        1   0.1% std::__1::vector::vector@3ef90
+       0   0.0% 100.0%        3   0.3% std::__1::vector::~vector@35cc0
+       0   0.0% 100.0%        3   0.3% std::__1::vector::~vector@39f00
+       0   0.0% 100.0%      960 100.0% testing::Test::Run
+       0   0.0% 100.0%      960 100.0% testing::TestInfo::Run
+       0   0.0% 100.0%      960 100.0% testing::TestSuite::Run
+       0   0.0% 100.0%      960 100.0% testing::UnitTest::Run
+       0   0.0% 100.0%      960 100.0% testing::internal::HandleExceptionsInMethodIfSupported@1b650
+       0   0.0% 100.0%      960 100.0% testing::internal::HandleExceptionsInMethodIfSupported@2c290
+       0   0.0% 100.0%      960 100.0% testing::internal::HandleSehExceptionsInMethodIfSupported@56600
+       0   0.0% 100.0%      960 100.0% testing::internal::HandleSehExceptionsInMethodIfSupported@5b380
+       0   0.0% 100.0%      960 100.0% testing::internal::UnitTestImpl::RunAllTests

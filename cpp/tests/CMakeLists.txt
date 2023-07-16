@@ -37,6 +37,13 @@ target_link_libraries(unit-tests PRIVATE GTest::gtest_main)
 target_link_libraries(unit-tests PRIVATE deplex)
 
 #####################################
+# Add profiler gperftools
+#####################################
+set(PLATFORM_LINKFLAGS "-L/usr/local/Cellar/gperftools/2.10/lib -lprofiler")
+
+target_link_libraries(unit-tests PRIVATE ${PLATFORM_LINKFLAGS})
+
+#####################################
 # Run tests target
 #####################################
 add_custom_target(run-unit-tests
