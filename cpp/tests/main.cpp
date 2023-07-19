@@ -14,9 +14,16 @@
  * limitations under the License.
  */
 #include <gtest/gtest.h>
+#include <benchmark/benchmark.h>
+
+#include "benchmark_segmentation_image.cpp"
 
 int main(int argc, char* argv[]) {
+
   testing::InitGoogleTest(&argc, argv);
+
+  benchmark::Initialize(&argc, argv);
+  benchmark::RunSpecifiedBenchmarks();
 
   return RUN_ALL_TESTS();
 }

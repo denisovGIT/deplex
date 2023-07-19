@@ -29,7 +29,7 @@ add_executable(unit-tests
         test_plane_extractor.cpp
         test_config.cpp
         test_depth_image.cpp
-        segmentation_plane_image.cpp)
+        segmentation_plane_image.cpp benchmark_segmentation_image.cpp)
 
 target_include_directories(unit-tests SYSTEM PUBLIC ${CMAKE_CURRENT_BINARY_DIR})
 
@@ -44,6 +44,15 @@ set(PLATFORM_LINKFLAGS "-L/usr/local/Cellar/gperftools/2.10/lib -lprofiler")
 target_link_libraries(unit-tests PRIVATE ${PLATFORM_LINKFLAGS})
 
 #####################################
+# Add Google Benchmark
+#####################################
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -I/usr/local/Cellar/google-benchmark/1.8.2/include")
+
+set(PLATFORM_LINKFLAGS "-L/usr/local/Cellar/google-benchmark/1.8.2/include -Lbenchmark/build/sr -lbenchmark -lpthread")
+
+find_package(benchmark REQUIRED)
+target_link_libraries(unit-tests PRIVATE benchmark::benchmark)
+#####################################
 # Run tests target
 #####################################
 add_custom_target(run-unit-tests
@@ -52,4 +61,4 @@ add_custom_target(run-unit-tests
         )
 
 include(GoogleTest)
-gtest_discover_tests(unit-tests)
+gtest_discover_tests(unit-tests PROPERTIES TEST_DISCOVERY_TIMEOUT 60000)

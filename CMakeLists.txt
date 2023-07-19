@@ -24,6 +24,11 @@ option(EXPERIMENTAL_OPENMP "Enable OpenMP parallelization" OFF)
 
 set(DEPLEX_LIB_DIR ${CMAKE_BINARY_DIR}/lib)
 
+#####################################
+# Flags Optimization
+#####################################
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -ftree-vectorize")
+
 add_subdirectory(external)
 add_subdirectory(libs)
 add_subdirectory(cpp)

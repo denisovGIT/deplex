@@ -9,10 +9,10 @@
 #include </usr/local/include/gperftools/profiler.h>
 
 
-TEST(ReadImage, count_image) {
+TEST(ReadImage, segmentationImage) {
   ProfilerStart("test_capture.prof");
 
-  const uint iterations = 10;
+  const uint iterations = 500;
   const std::string IMAGE = "icl_nuim";
 
   std::__fs::filesystem::path data_dir = "/Users/denisovlev/Documents/CLionProjects/deplex/dataBenchmark";
