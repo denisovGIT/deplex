@@ -32,6 +32,8 @@
 #include <rtl/Plane.hpp>
 #include <rtl/RANSAC.hpp>
 
+#include "CTPL/ctpl_stl.h"
+
 #ifdef BENCHMARK_LOGGING
 namespace {
 template <typename T, typename Time>
@@ -73,6 +75,7 @@ class PlaneExtractor::Impl {
   int32_t image_height_;
   int32_t image_width_;
   Eigen::MatrixXi labels_map_;
+  ctpl::thread_pool pool{config_.number_threads};
 
   /**
    * Initialize histogram from planar cells of cell grid.
@@ -183,7 +186,7 @@ Eigen::VectorXi PlaneExtractor::Impl::process(Eigen::MatrixX3f const& pcd_array)
 #ifdef BENCHMARK_LOGGING
   auto time_init_cell_grid = std::chrono::high_resolution_clock::now();
 #endif
-  CellGrid cell_grid(pcd_array, config_, nr_horizontal_cells_, nr_vertical_cells_);
+  CellGrid cell_grid(pcd_array, config_, nr_horizontal_cells_, nr_vertical_cells_, pool);
 #ifdef BENCHMARK_LOGGING
   std::clog << "[BenchmarkLogging] Cell Grid Initialization: "
             << get_benchmark_time<decltype(std::chrono::microseconds())>(time_init_cell_grid) << '\n';

@@ -19,7 +19,7 @@
 
 namespace deplex {
 CellGrid::CellGrid(Eigen::Matrix<float, Eigen::Dynamic, 3, Eigen::RowMajor> const& points, config::Config const& config,
-                   int32_t number_horizontal_cells, int32_t number_vertical_cells)
+                   int32_t number_horizontal_cells, int32_t number_vertical_cells, ctpl::thread_pool& pool)
     : cell_width_(config.patch_size),
       cell_height_(config.patch_size),
       number_horizontal_cells_(number_horizontal_cells),
@@ -31,15 +31,33 @@ CellGrid::CellGrid(Eigen::Matrix<float, Eigen::Dynamic, 3, Eigen::RowMajor> cons
   Eigen::Matrix<float, Eigen::Dynamic, 3, Eigen::RowMajor> cell_continuous_points(points.rows(), points.cols());
   cellContinuousOrganize(points, &cell_continuous_points);
 
-  Eigen::Map<const Eigen::Matrix<float, Eigen::Dynamic, 3, Eigen::RowMajor>> cell_points(cell_continuous_points.data(),
-                                                                                         cell_width_ * cell_height_, 3);
-#pragma omp parallel for default(none) shared(cell_continuous_points, config, cell_points)
+  std::vector<Eigen::Map<const Eigen::Matrix<float, Eigen::Dynamic, 3, Eigen::RowMajor>>> cell_points;
+
+  cell_points.reserve(number_horizontal_cells_ * number_vertical_cells_);
+
   for (Eigen::Index cell_id = 0; cell_id < number_horizontal_cells_ * number_vertical_cells_; ++cell_id) {
     Eigen::Index offset = cell_id * cell_height_ * cell_width_ * 3;
-    new (&cell_points) decltype(cell_points)(cell_continuous_points.data() + offset, cell_width_ * cell_height_, 3);
-    cell_grid_[cell_id] = CellSegment(cell_points, config);
-    parent_[cell_id] = cell_id;
-    planar_mask_[cell_id] = cell_grid_[cell_id].isPlanar();
+    cell_points.emplace_back(cell_continuous_points.data() + offset, cell_width_ * cell_height_, 3);
+  }
+
+  std::vector<std::future<void>> flag;
+
+  flag.reserve(config.number_threads);
+
+  for (uint i = 0; i < config.number_threads; ++i) {
+    flag.emplace_back(pool.push([this, config, cell_points, i](int id) {
+      for (Eigen::Index cell_id = i; cell_id < number_horizontal_cells_ * number_vertical_cells_;
+           cell_id += config.number_threads) {
+        cell_grid_[cell_id] = CellSegment(cell_points[cell_id], config);
+
+        parent_[cell_id] = cell_id;
+        planar_mask_[cell_id] = cell_grid_[cell_id].isPlanar();
+      }
+    }));
+  }
+
+  for (uint i = 0; i < config.number_threads; ++i) {
+    flag[i].get();
   }
 }
 
@@ -81,7 +99,7 @@ size_t CellGrid::size() const { return planar_mask_.size(); }
 void CellGrid::cellContinuousOrganize(Eigen::Matrix<float, Eigen::Dynamic, 3, Eigen::RowMajor> const& unorganized_data,
                                       Eigen::Matrix<float, Eigen::Dynamic, 3, Eigen::RowMajor>* organized_pcd) {
   int32_t image_width = number_horizontal_cells_ * cell_width_;
-#pragma omp parallel for default(none) shared(cell_width, cell_height, organized_pcd, unorganized_data)
+
   for (Eigen::Index cell_id = 0; cell_id < number_horizontal_cells_ * number_vertical_cells_; ++cell_id) {
     Eigen::Index outer_cell_stride = cell_width_ * cell_height_ * cell_id;
     for (Eigen::Index i = 0; i < cell_height_; ++i) {
